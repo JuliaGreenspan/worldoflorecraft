@@ -52,4 +52,22 @@ jobs:
           git commit -m "snapshot: $(date -u +%F\ %T) UTC" || echo "No changes"
           git push || true
 
-      - name: Copy snapshot to docs f
+      - name: Copy snapshot to docs for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip docs/
+          # Disable Jekyll so Pages serves plain files
+          touch docs/.nojekyll
+          # Simple index page (no heredocs to avoid YAML parsing issues)
+          printf "# World of Lorecraft Snapshot\n\n" > docs/index.md
+          printf "Latest daily export from Notion.\n\n" >> docs/index.md
+          printf "- [Lore Compendium](./lore_compendium.md)\n" >> docs/index.md
+          printf "- [Index](./lore_index.md)\n" >> docs/index.md
+          printf "- [Machine Index (JSON)](./index.json)\n" >> docs/index.md
+          printf "- [ZIP Snapshot](./lore_snapshot.zip)\n" >> docs/index.md
+
+      - name: Upload build artifacts (manual download option)
+        uses: actions/upload-artifact@v4
+        with:
+          name: lore-snapshot
+          path: build/
