@@ -50,3 +50,7 @@ jobs:
           name: lore-snapshot
           path: build/
 
+      - name: Copy snapshot to docs folder for Pages
+        run: |
+          mkdir -p docs
+          cp build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip docs/
