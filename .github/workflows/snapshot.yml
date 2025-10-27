@@ -1,29 +1,30 @@
 name: Build Lore Snapshot (Notion API)
+
 on:
   schedule:
-    - cron: "0 5 * * *"   # daily 05:00 UTC
-  workflow_dispatch: {}    # manual trigger
+    - cron: "0 5 * * *"   # runs daily at 05:00 UTC
+  workflow_dispatch: {}    # manual trigger allowed
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     env:
       NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
       CHAR_DB: "2992fb8c325a8026a3b5cbd96f332c17"
       SESS_DB: "2992fb8c325a80d9aed0d0320813a063"
       PARTY_PAGE: "2992fb8c325a80efbb32edb10a21c3ba"
+
     steps:
-      # ✅ This pulls your repo files into the runner
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # Show structure (helps debugging)
       - name: Show repo tree
         run: |
           pwd
-          ls -R | head -n 50
+          find . -maxdepth 3 -type f | sort
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,7 +35,14 @@ jobs:
         run: pip install requests
 
       - name: Build snapshot
-        run: python scripts/build_snapshot_api.py
+        run: |
+          if [ -f scripts/build_snapshot_api.py ]; then
+            python scripts/build_snapshot_api.py
+          elif [ -f build_snapshot_api.py ]; then
+            python build_snapshot_api.py
+          else
+            echo "❌ build_snapshot_api(.py) not found"; exit 1
+          fi
 
       - name: Commit artifacts
         run: |
@@ -44,25 +52,4 @@ jobs:
           git commit -m "snapshot: $(date -u +%F\ %T) UTC" || echo "No changes"
           git push || true
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: lore-snapshot
-          path: build/
-
-      - name: Copy snapshot to docs folder for Pages
-        run: |
-          mkdir -p docs
-          cp build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip docs/
-          
-      - name: Disable Jekyll & add simple index
-        run: |
-          touch docs/.nojekyll
-          cat > docs/index.md << 'MD'
-          # World of Lorecraft Snapshot
-
-          - [Lore Compendium](./lore_compendium.md)
-          - [Index](./lore_index.md)
-          - [Machine Index (JSON)](./index.json)
-          - [ZIP Snapshot](./lore_snapshot.zip)
-          MD
+      - name: Copy snapshot to docs f
