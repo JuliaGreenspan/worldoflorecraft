@@ -43,3 +43,10 @@ jobs:
           git add build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip || true
           git commit -m "snapshot: $(date -u +%F\ %T) UTC" || echo "No changes"
           git push || true
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: lore-snapshot
+          path: build/
+
