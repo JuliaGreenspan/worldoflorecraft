@@ -58,7 +58,7 @@ jobs:
           cp build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip docs/
           # Disable Jekyll so Pages serves plain files
           touch docs/.nojekyll
-          # Write a simple index
+          # Simple index page
           cat > docs/index.md <<'MD'
           # World of Lorecraft Snapshot
       
@@ -69,8 +69,15 @@ jobs:
           - [Machine Index (JSON)](./index.json)
           - [ZIP Snapshot](./lore_snapshot.zip)
           MD
-
-
+      
+      - name: Commit Pages content (docs/)
+        run: |
+          git config user.name "snapshot-bot"
+          git config user.email "snapshot-bot@users.noreply.github.com"
+          git add docs/.nojekyll docs/index.md docs/lore_compendium.md docs/lore_index.md docs/index.json docs/lore_snapshot.zip || true
+          git commit -m "pages: update docs $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "No changes"
+          git push || true
+      
       - name: Upload build artifacts (manual download option)
         uses: actions/upload-artifact@v4
         with:
