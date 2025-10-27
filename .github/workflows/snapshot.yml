@@ -54,3 +54,15 @@ jobs:
         run: |
           mkdir -p docs
           cp build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip docs/
+          
+      - name: Disable Jekyll & add simple index
+        run: |
+          touch docs/.nojekyll
+          cat > docs/index.md << 'MD'
+          # World of Lorecraft Snapshot
+
+          - [Lore Compendium](./lore_compendium.md)
+          - [Index](./lore_index.md)
+          - [Machine Index (JSON)](./index.json)
+          - [ZIP Snapshot](./lore_snapshot.zip)
+          MD
