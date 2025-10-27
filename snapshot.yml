@@ -1,0 +1,34 @@
+name: Build Lore Snapshot (Notion API)
+on:
+  schedule:
+    - cron: "0 5 * * *"   # daily 05:00 UTC
+  workflow_dispatch: {}    # allow manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      CHAR_DB: "2992fb8c325a8026a3b5cbd96f332c17"
+      SESS_DB: "2992fb8c325a80d9aed0d0320813a063"
+      PARTY_PAGE: "2992fb8c325a80efbb32edb10a21c3ba"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Build snapshot
+        run: |
+          python - << 'PY'
+          import subprocess, sys
+          subprocess.check_call([sys.executable, "scripts/build_snapshot_api.py"])
+          PY
+      - name: Commit artifacts
+        run: |
+          git config user.name "snapshot-bot"
+          git config user.email "snapshot-bot@users.noreply.github.com"
+          git add build/lore_compendium.md build/lore_index.md build/index.json build/lore_snapshot.zip || true
+          git commit -m "snapshot: $(date -u +%F\ %T) UTC" || echo "No changes"
+          git push || true
