@@ -2,7 +2,7 @@ name: Build Lore Snapshot (Notion API)
 on:
   schedule:
     - cron: "0 5 * * *"   # daily 05:00 UTC
-  workflow_dispatch: {}    # allow manual runs
+  workflow_dispatch: {}    # manual trigger
 
 jobs:
   build:
@@ -15,16 +15,27 @@ jobs:
       SESS_DB: "2992fb8c325a80d9aed0d0320813a063"
       PARTY_PAGE: "2992fb8c325a80efbb32edb10a21c3ba"
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      # ✅ This pulls your repo files into the runner
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Show structure (helps debugging)
+      - name: Show repo tree
+        run: |
+          pwd
+          ls -R | head -n 50
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Build snapshot
-        run: |
-          python - << 'PY'
-          import subprocess, sys
-          subprocess.check_call([sys.executable, "scripts/build_snapshot_api.py"])
-          PY
+        run: python scripts/build_snapshot_api.py
+
       - name: Commit artifacts
         run: |
           git config user.name "snapshot-bot"
