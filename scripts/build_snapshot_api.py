@@ -113,7 +113,40 @@ def render_page(page):
     for blk in get_blocks(pid):
         md += block_to_md(blk)
     return title, "\n".join(md).strip()
+    
+def write_split_compendium(pages, out_dir, max_size=100*1024):
+    """Write the compendium in multiple parts if total size > max_size.
+    Keeps each page (usually a session) whole.
+    Returns a list of written filenames.
+    """
+    comp_header = ["# Lore Compendium (from Notion API)", ""]
+    part = 1
+    buf = comp_header.copy()
+    size = sum(len(l.encode("utf-8")) for l in buf)
+    files = []
 
+    for e in sorted(pages, key=lambda x:(x["db"], x["title"].lower())):
+        entry = ["\n---\n", f"# {e['title']}", f"_Source DB: {e['db']}_", "", e["content"]]
+        entry_size = sum(len(l.encode("utf-8")) for l in entry)
+        if size + entry_size > max_size and buf != comp_header:
+            # flush current buffer
+            name = f"lore_compendium_part_{part:02d}.md"
+            pathlib.Path(out_dir/name).write_text("\n".join(buf), encoding="utf-8")
+            files.append(name)
+            part += 1
+            buf = comp_header.copy()
+            size = sum(len(l.encode("utf-8")) for l in buf)
+        buf += entry
+        size += entry_size
+
+    # final write
+    if len(buf) > len(comp_header):
+        name = f"lore_compendium_part_{part:02d}.md"
+        pathlib.Path(out_dir/name).write_text("\n".join(buf), encoding="utf-8")
+        files.append(name)
+
+    return files
+    
 def build():
     pages = []
 
