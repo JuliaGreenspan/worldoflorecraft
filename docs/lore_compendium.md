@@ -582,6 +582,23 @@ _Source DB: Session Notes_
 
 ---
 
+# Session #32
+_Source DB: Session Notes_
+
+# Session #32
+# Full Notes
+
+---
+
+# Session #32
+_Source DB: Session Notes_
+
+# Session #32
+## Session 32
+The GayteKeep�rs arrive in
+
+---
+
 # Session #4
 _Source DB: Session Notes_
 
