@@ -170,24 +170,24 @@ def build():
         md += block_to_md(blk)
     pages.append({"db":"Party Goals","page_id":PAGE_GOALS,"title":t,"content":"\n".join(md)})
 
-    # Write compendium
+        # Write compendium (split into ~100 KB parts)
     comp_files = write_split_compendium(pages, OUT)
-    for e in sorted(pages, key=lambda x:(x["db"], x["title"].lower())):
-        comp += ["\n---\n", f"# {e['title']}", f"_Source DB: {e['db']}_", "", e["content"]]
-    pathlib.Path(OUT/"lore_compendium.md").write_text("\n".join(comp), encoding="utf-8")
 
     # Write index with aliases
     idx = ["# Lore Snapshot Index", "", "List of pages and alias variants.", ""]
     for e in sorted(pages, key=lambda x:(x["db"], x["title"].lower())):
         aliases = normalize_aliases(e["title"])
-        idx += [f"## {e['title']}",
-                f"- Database: **{e['db']}**",
-                f"- Page ID: `{e['page_id']}`",
-                f"- Aliases: {', '.join(aliases[:8])}", ""]
-    pathlib.Path(OUT/"lore_index.md").write_text("\n".join(idx), encoding="utf-8")
+        idx += [
+            f"## {e['title']}",
+            f"- Database: **{e['db']}**",
+            f"- Page ID: `{e['page_id']}`",
+            f"- Aliases: {', '.join(aliases[:8])}",
+            ""
+        ]
+    pathlib.Path(OUT / "lore_index.md").write_text("\n".join(idx), encoding="utf-8")
 
     # Machine index
-    pathlib.Path(OUT/"index.json").write_text(json.dumps({
+    pathlib.Path(OUT / "index.json").write_text(json.dumps({
         "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "databases": {
             "characters": DB_CHAR,
@@ -195,23 +195,15 @@ def build():
         },
         "party_goals_page": PAGE_GOALS,
         "pages": [
-    {
-        "title": e["title"],
-        "db": e["db"],
-        "page_id": e["page_id"],
-        "source_part": f"lore_compendium_part_{(i // 50) + 1:02d}"  # or derive dynamically
-    }
-    for i, e in enumerate(sorted(pages, key=lambda x:(x["db"], x["title"].lower())))
-]
+            {"title": e["title"], "db": e["db"], "page_id": e["page_id"]}
+            for e in pages
+        ],
+        "compendium_parts": comp_files
     }, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Zip bundle
-    with zipfile.ZipFile(OUT/"lore_snapshot.zip", "w", zipfile.ZIP_DEFLATED) as z:
+    # Zip bundle (include all parts)
+    with zipfile.ZipFile(OUT / "lore_snapshot.zip", "w", zipfile.ZIP_DEFLATED) as z:
         for fn in comp_files:
-            z.write(OUT/fn, fn)
-        z.write(OUT/"lore_index.md", "lore_index.md")
-        z.write(OUT/"index.json", "index.json")
-
-if __name__ == "__main__":
-    build()
-    print("Built: build/lore_compendium.md, build/lore_index.md, build/lore_snapshot.zip")
+            z.write(OUT / fn, fn)
+        z.write(OUT / "lore_index.md", "lore_index.md")
+        z.write(OUT / "index.json", "index.json")
