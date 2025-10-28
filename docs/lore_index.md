@@ -164,28 +164,183 @@ List of pages and alias variants.
 
 ## Session #32
 - Database: **Session Notes**
-- Page ID: `2992fb8c-325a-80ae-83a3-ff8f2ec6be68`
+- Page ID: `29a2fb8c-325a-80a8-826b-e3f8a48b2abb`
 - Aliases: Session #32, session #32
 
-## Session #32
+## Session #33
 - Database: **Session Notes**
-- Page ID: `2992fb8c-325a-8149-b443-e614cad4154e`
-- Aliases: Session #32, session #32
+- Page ID: `29a2fb8c-325a-8019-833f-f1e963296203`
+- Aliases: Session #33, session #33
+
+## Session #34
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8064-b0fc-d171ffb9c5ca`
+- Aliases: Session #34, session #34
+
+## Session #35
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80ef-a4f5-eba769fccbca`
+- Aliases: Session #35, session #35
+
+## Session #36
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80c9-b9c9-fee47eae4b2a`
+- Aliases: Session #36, session #36
+
+## Session #37
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80e3-aa95-eb278ee8750e`
+- Aliases: Session #37, session #37
+
+## Session #38
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8006-85f3-d31fbd9563cd`
+- Aliases: Session #38, session #38
+
+## Session #39
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8023-bec1-dced0264a708`
+- Aliases: Session #39, session #39
 
 ## Session #4
 - Database: **Session Notes**
 - Page ID: `2992fb8c-325a-804f-9a67-e61cbc856bac`
 - Aliases: Session #4, session #4
 
+## Session #40
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8002-8652-ef7021e0f5da`
+- Aliases: Session #40, session #40
+
+## Session #41
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-800e-a7fb-cb316d6ee37b`
+- Aliases: Session #41, session #41
+
+## Session #42
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80bb-94ce-decfe9ec62b0`
+- Aliases: Session #42, session #42
+
+## Session #43
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8064-b859-c2cc442ab837`
+- Aliases: Session #43, session #43
+
+## Session #44
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8063-8f12-dc03c626d5ac`
+- Aliases: Session #44, session #44
+
+## Session #45
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8042-b504-e17215f69a88`
+- Aliases: Session #45, session #45
+
+## Session #46
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8015-a66a-e593b760e9bf`
+- Aliases: Session #46, session #46
+
+## Session #47
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-802c-9461-d2f10888d9ec`
+- Aliases: Session #47, session #47
+
+## Session #48
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80c1-86f1-e0c289299bce`
+- Aliases: Session #48, session #48
+
+## Session #49
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8016-804d-c20abaa5aae2`
+- Aliases: Session #49, session #49
+
 ## Session #5
 - Database: **Session Notes**
 - Page ID: `2992fb8c-325a-805e-844f-d58529c8bc1d`
 - Aliases: Session #5, session #5
 
+## Session #50
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80c3-b96e-d6ae15604a0b`
+- Aliases: Session #50, session #50
+
+## Session #51
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80fe-9008-e41c240016da`
+- Aliases: Session #51, session #51
+
+## Session #52
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80da-b5b2-ecfecfbcb57c`
+- Aliases: Session #52, session #52
+
+## Session #53
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8059-b675-d4396e95207a`
+- Aliases: Session #53, session #53
+
+## Session #54
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8064-97ea-d78bab236190`
+- Aliases: Session #54, session #54
+
+## Session #55
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80f2-95ae-fc164efbe2e2`
+- Aliases: Session #55, session #55
+
+## Session #56
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8011-a5db-eaf2b8a85cde`
+- Aliases: Session #56, session #56
+
+## Session #57
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80fa-8add-c90b37b4b23f`
+- Aliases: Session #57, session #57
+
+## Session #58
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-803c-a5b4-eef8e82ebeb2`
+- Aliases: Session #58, session #58
+
+## Session #59
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-801e-b7ed-f9b082ac34dc`
+- Aliases: Session #59, session #59
+
 ## Session #6
 - Database: **Session Notes**
 - Page ID: `2992fb8c-325a-8010-8e39-d001259a622e`
 - Aliases: Session #6, session #6
+
+## Session #60
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80de-a122-d6aefad39aa1`
+- Aliases: Session #60, session #60
+
+## Session #61
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8076-ba47-ec811d35f325`
+- Aliases: Session #61, session #61
+
+## Session #62
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-8057-8777-ef69e327690a`
+- Aliases: Session #62, session #62
+
+## Session #63
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80c7-a2fe-e1da5bae4b3d`
+- Aliases: Session #63, session #63
+
+## Session #64
+- Database: **Session Notes**
+- Page ID: `29a2fb8c-325a-80da-a580-c2e2377d0b5d`
+- Aliases: Session #64, session #64
 
 ## Session #7
 - Database: **Session Notes**
