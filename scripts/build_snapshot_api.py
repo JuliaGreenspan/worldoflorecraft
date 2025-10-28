@@ -121,7 +121,7 @@ def render_page(page):
 # ------------------------------
 # Split writer
 # ------------------------------
-def write_split_compendium(pages, out_dir, max_size=100*1024):
+def write_split_compendium(pages, out_dir, max_size=70*1024):
     """Write the compendium in multiple parts if total size > max_size.
     Keeps each page (usually a session) whole.
     Returns a list of written filenames.
