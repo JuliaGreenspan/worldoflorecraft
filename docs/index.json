@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T15:17:56Z",
+  "generated_at": "2025-10-28T15:59:18Z",
   "databases": {
     "characters": "2992fb8c325a8026a3b5cbd96f332c17",
     "sessions": "2992fb8c325a80d9aed0d0320813a063"
@@ -361,5 +361,9 @@
       "db": "Party Goals",
       "page_id": "2992fb8c325a80efbb32edb10a21c3ba"
     }
+  ],
+  "compendium_parts": [
+    "lore_compendium_part_01.md",
+    "lore_compendium_part_02.md"
   ]
 }

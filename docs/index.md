@@ -4,6 +4,8 @@ Latest daily export from Notion.
 
 ## Compendium Files
 - [lore_compendium.md](./lore_compendium.md)
+- [lore_compendium_part_01.md](./lore_compendium_part_01.md)
+- [lore_compendium_part_02.md](./lore_compendium_part_02.md)
 
 ## Index Files
 - [Lore Index](./lore_index.md)
