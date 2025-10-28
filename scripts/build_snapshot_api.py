@@ -171,7 +171,7 @@ def build():
     pages.append({"db":"Party Goals","page_id":PAGE_GOALS,"title":t,"content":"\n".join(md)})
 
     # Write compendium
-    comp = ["# Lore Compendium (from Notion API)", ""]
+    comp_files = write_split_compendium(pages, OUT)
     for e in sorted(pages, key=lambda x:(x["db"], x["title"].lower())):
         comp += ["\n---\n", f"# {e['title']}", f"_Source DB: {e['db']}_", "", e["content"]]
     pathlib.Path(OUT/"lore_compendium.md").write_text("\n".join(comp), encoding="utf-8")
@@ -194,12 +194,21 @@ def build():
             "sessions": DB_SESS
         },
         "party_goals_page": PAGE_GOALS,
-        "pages": [{"title":e["title"],"db":e["db"],"page_id":e["page_id"]} for e in pages]
+        "pages": [
+    {
+        "title": e["title"],
+        "db": e["db"],
+        "page_id": e["page_id"],
+        "source_part": f"lore_compendium_part_{(i // 50) + 1:02d}"  # or derive dynamically
+    }
+    for i, e in enumerate(sorted(pages, key=lambda x:(x["db"], x["title"].lower())))
+]
     }, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # Zip bundle
     with zipfile.ZipFile(OUT/"lore_snapshot.zip", "w", zipfile.ZIP_DEFLATED) as z:
-        z.write(OUT/"lore_compendium.md", "lore_compendium.md")
+        for fn in comp_files:
+            z.write(OUT/fn, fn)
         z.write(OUT/"lore_index.md", "lore_index.md")
         z.write(OUT/"index.json", "index.json")
 
