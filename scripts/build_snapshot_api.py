@@ -172,6 +172,7 @@ def build():
 
         # Write compendium (split into ~100 KB parts)
     comp_files = write_split_compendium(pages, OUT)
+    print("Wrote compendium files:", comp_files)
 
     # Write index with aliases
     idx = ["# Lore Snapshot Index", "", "List of pages and alias variants.", ""]
