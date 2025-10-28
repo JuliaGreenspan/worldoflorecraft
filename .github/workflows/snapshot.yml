@@ -21,11 +21,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Show repo tree
-        run: |
-          pwd
-          find . -maxdepth 3 -type f | sort
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -43,45 +38,58 @@ jobs:
           else
             echo "❌ build_snapshot_api(.py) not found"; exit 1
           fi
+          echo "Contents of build/:"
+          ls -lh build/
 
       - name: Commit artifacts
         run: |
           git config user.name "snapshot-bot"
           git config user.email "snapshot-bot@users.noreply.github.com"
-          # Add all split compendium parts dynamically
-          git add build/lore_compendium_part_*.md build/lore_index.md build/index.json build/lore_snapshot.zip || true
-          git commit -m "snapshot: $(date -u +%F\ %T) UTC" || echo "No changes"
+          # Add compendium parts OR single compendium
+          if ls build/lore_compendium_part_*.md >/dev/null 2>&1; then
+            git add build/lore_compendium_part_*.md
+          elif [ -f build/lore_compendium.md ]; then
+            git add build/lore_compendium.md
+          fi
+          git add build/lore_index.md build/index.json build/lore_snapshot.zip || true
+          git commit -m "snapshot: $(date -u +'%F %T') UTC" || echo "No changes"
           git push || true
 
       - name: Copy snapshot to docs for GitHub Pages
         run: |
           mkdir -p docs
-          # Copy all compendium parts, index, JSON, and ZIP
-          cp build/lore_compendium_part_*.md build/lore_index.md build/index.json build/lore_snapshot.zip docs/ || true
-          # Disable Jekyll so Pages serves plain files
+          # Copy compendium parts OR fallback single compendium
+          if ls build/lore_compendium_part_*.md >/dev/null 2>&1; then
+            cp build/lore_compendium_part_*.md docs/
+          elif [ -f build/lore_compendium.md ]; then
+            cp build/lore_compendium.md docs/
+          fi
+          cp build/lore_index.md build/index.json build/lore_snapshot.zip docs/ || true
           touch docs/.nojekyll
-          # Generate a simple landing index with dynamic part list
-          cat > docs/index.md <<'MD'
-          # World of Lorecraft Snapshot
-
-          Latest daily export from Notion.
-
-          ## Compendium Parts
-          $(for f in $(ls docs/lore_compendium_part_*.md 2>/dev/null | sort); do
-            echo "- [$(basename $f)](./$(basename $f))"
-          done)
-
-          ## Index Files
-          - [Lore Index](./lore_index.md)
-          - [Machine Index (JSON)](./index.json)
-          - [ZIP Snapshot](./lore_snapshot.zip)
-          MD
+          echo "# World of Lorecraft Snapshot" > docs/index.md
+          echo "" >> docs/index.md
+          echo "Latest daily export from Notion." >> docs/index.md
+          echo "" >> docs/index.md
+          echo "## Compendium Files" >> docs/index.md
+          for f in $(ls docs/lore_compendium_part_*.md docs/lore_compendium.md 2>/dev/null | sort); do
+            echo "- [$(basename "$f")](./$(basename "$f"))" >> docs/index.md
+          done
+          echo "" >> docs/index.md
+          echo "## Index Files" >> docs/index.md
+          echo "- [Lore Index](./lore_index.md)" >> docs/index.md
+          echo "- [Machine Index (JSON)](./index.json)" >> docs/index.md
+          echo "- [ZIP Snapshot](./lore_snapshot.zip)" >> docs/index.md
 
       - name: Commit Pages content (docs/)
         run: |
           git config user.name "snapshot-bot"
           git config user.email "snapshot-bot@users.noreply.github.com"
-          git add docs/.nojekyll docs/index.md docs/lore_compendium_part_*.md docs/lore_index.md docs/index.json docs/lore_snapshot.zip || true
+          if ls docs/lore_compendium_part_*.md >/dev/null 2>&1; then
+            git add docs/lore_compendium_part_*.md
+          elif [ -f docs/lore_compendium.md ]; then
+            git add docs/lore_compendium.md
+          fi
+          git add docs/.nojekyll docs/index.md docs/lore_index.md docs/index.json docs/lore_snapshot.zip || true
           git commit -m "pages: update docs $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "No changes"
           git push || true
 
