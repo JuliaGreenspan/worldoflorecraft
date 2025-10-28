@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T20:37:09Z",
+  "generated_at": "2025-10-28T05:21:40Z",
   "databases": {
     "characters": "2992fb8c325a8026a3b5cbd96f332c17",
     "sessions": "2992fb8c325a80d9aed0d0320813a063"
@@ -152,6 +152,11 @@
       "page_id": "2992fb8c-325a-80aa-9c61-d539229df49f"
     },
     {
+      "title": "Session #32",
+      "db": "Session Notes",
+      "page_id": "2992fb8c-325a-80ae-83a3-ff8f2ec6be68"
+    },
+    {
       "title": "Session #25",
       "db": "Session Notes",
       "page_id": "2992fb8c-325a-80b2-b995-c956e1ec92a3"
@@ -190,6 +195,11 @@
       "title": "Session #12",
       "db": "Session Notes",
       "page_id": "2992fb8c-325a-80f5-8f0a-f8fc5f469fcb"
+    },
+    {
+      "title": "Session #32",
+      "db": "Session Notes",
+      "page_id": "2992fb8c-325a-8149-b443-e614cad4154e"
     },
     {
       "title": "Party Goals Tracker",

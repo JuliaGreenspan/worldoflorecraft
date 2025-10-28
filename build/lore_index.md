@@ -162,6 +162,16 @@ List of pages and alias variants.
 - Page ID: `2992fb8c-325a-803a-926a-fe30dc3a5ef9`
 - Aliases: Session #31, session #31
 
+## Session #32
+- Database: **Session Notes**
+- Page ID: `2992fb8c-325a-80ae-83a3-ff8f2ec6be68`
+- Aliases: Session #32, session #32
+
+## Session #32
+- Database: **Session Notes**
+- Page ID: `2992fb8c-325a-8149-b443-e614cad4154e`
+- Aliases: Session #32, session #32
+
 ## Session #4
 - Database: **Session Notes**
 - Page ID: `2992fb8c-325a-804f-9a67-e61cbc856bac`
