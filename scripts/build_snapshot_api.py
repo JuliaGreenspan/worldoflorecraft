@@ -20,12 +20,17 @@ S.headers.update({
     "Content-Type": "application/json",
 })
 
+# ------------------------------
+# Helpers
+# ------------------------------
 def normalize_aliases(name: str):
     variants = {name}
-    straight = name.replace("’","'").replace("‘","'").replace("“",'"').replace("”",'"')
-    variants |= {straight, straight.replace("'","’"), straight.replace("'","")}
-    def fold(s): return unicodedata.normalize("NFKD", s).encode("ascii","ignore").decode("ascii")
-    variants |= {fold(straight), fold(straight).replace("'","")}
+    straight = name.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    variants |= {straight, straight.replace("'", "’"), straight.replace("'", "")}
+
+    def fold(s): return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+
+    variants |= {fold(straight), fold(straight).replace("'", "")}
     variants |= {v.lower() for v in list(variants)}
     return sorted({v for v in variants if v})
 
@@ -36,8 +41,10 @@ def notion_paginated(url, payload=None):
         r.raise_for_status()
         data = r.json()
         results = data.get("results", [])
-        for x in results: yield x
-        if not data.get("has_more"): break
+        for x in results:
+            yield x
+        if not data.get("has_more"):
+            break
         payload = dict(payload, start_cursor=data.get("next_cursor"))
 
 def query_db(db_id: str):
@@ -51,8 +58,8 @@ def get_blocks(block_id: str):
 def rich_text_to_md(rt):
     out = ""
     for span in rt or []:
-        txt = span.get("plain_text","")
-        ann = span.get("annotations",{})
+        txt = span.get("plain_text", "")
+        ann = span.get("annotations", {})
         if ann.get("code"): txt = f"`{txt}`"
         if ann.get("bold"): txt = f"**{txt}**"
         if ann.get("italic"): txt = f"*{txt}*"
@@ -66,10 +73,11 @@ def block_to_md(block, indent=0):
     b = block.get(t, {})
     prefix = "  " * indent
     lines = []
+
     if t == "paragraph":
         lines.append(prefix + rich_text_to_md(b.get("rich_text")))
-    elif t in ("heading_1","heading_2","heading_3"):
-        h = {"heading_1":"#","heading_2":"##","heading_3":"###"}[t]
+    elif t in ("heading_1", "heading_2", "heading_3"):
+        h = {"heading_1": "#", "heading_2": "##", "heading_3": "###"}[t]
         lines.append(f"{h} {rich_text_to_md(b.get('rich_text'))}")
     elif t == "bulleted_list_item":
         lines.append(prefix + "- " + rich_text_to_md(b.get("rich_text")))
@@ -78,42 +86,41 @@ def block_to_md(block, indent=0):
     elif t == "to_do":
         chk = "x" if b.get("checked") else " "
         lines.append(prefix + f"- [{chk}] " + rich_text_to_md(b.get("rich_text")))
-    elif t == "quote":
-        lines.append(prefix + "> " + rich_text_to_md(b.get("rich_text")))
-    elif t == "callout":
+    elif t in ("quote", "callout"):
         lines.append(prefix + "> " + rich_text_to_md(b.get("rich_text")))
     elif t == "toggle":
         lines.append(prefix + "**" + rich_text_to_md(b.get("rich_text")) + "**")
     elif t == "code":
-        lang = b.get("language","")
-        lines += ["```"+lang, b.get("rich_text",[{}])[0].get("plain_text",""), "```"]
+        lang = b.get("language", "")
+        lines += ["```" + lang, b.get("rich_text", [{}])[0].get("plain_text", ""), "```"]
     elif t == "divider":
         lines.append("---")
     elif t == "table":
-        # simple placeholder; Notion tables can be complex
         lines.append(prefix + "_[Table omitted in compendium]_")
-    elif t == "unsupported":
-        pass
+
     # children
     if block.get("has_children"):
         for ch in get_blocks(block["id"]):
-            lines += block_to_md(ch, indent + (1 if t in ("bulleted_list_item","numbered_list_item","toggle") else 0))
+            lines += block_to_md(ch, indent + (1 if t in ("bulleted_list_item", "numbered_list_item", "toggle") else 0))
     return [l for l in lines if l is not None]
 
 def page_title(page):
-    title_prop = next((v for (k,v) in page.get("properties",{}).items() if v.get("type")=="title"), None)
-    if not title_prop: return "Untitled"
-    return "".join([s.get("plain_text","") for s in title_prop.get("title",[])]).strip() or "Untitled"
+    title_prop = next((v for (k, v) in page.get("properties", {}).items() if v.get("type") == "title"), None)
+    if not title_prop:
+        return "Untitled"
+    return "".join([s.get("plain_text", "") for s in title_prop.get("title", [])]).strip() or "Untitled"
 
 def render_page(page):
     pid = page["id"]
     title = page_title(page)
     md = [f"# {title}"]
-    # content blocks
     for blk in get_blocks(pid):
         md += block_to_md(blk)
     return title, "\n".join(md).strip()
-    
+
+# ------------------------------
+# Split writer
+# ------------------------------
 def write_split_compendium(pages, out_dir, max_size=100*1024):
     """Write the compendium in multiple parts if total size > max_size.
     Keeps each page (usually a session) whole.
@@ -125,13 +132,12 @@ def write_split_compendium(pages, out_dir, max_size=100*1024):
     size = sum(len(l.encode("utf-8")) for l in buf)
     files = []
 
-    for e in sorted(pages, key=lambda x:(x["db"], x["title"].lower())):
+    for e in sorted(pages, key=lambda x: (x["db"], x["title"].lower())):
         entry = ["\n---\n", f"# {e['title']}", f"_Source DB: {e['db']}_", "", e["content"]]
         entry_size = sum(len(l.encode("utf-8")) for l in entry)
         if size + entry_size > max_size and buf != comp_header:
-            # flush current buffer
             name = f"lore_compendium_part_{part:02d}.md"
-            pathlib.Path(out_dir/name).write_text("\n".join(buf), encoding="utf-8")
+            pathlib.Path(out_dir / name).write_text("\n".join(buf), encoding="utf-8")
             files.append(name)
             part += 1
             buf = comp_header.copy()
@@ -139,26 +145,28 @@ def write_split_compendium(pages, out_dir, max_size=100*1024):
         buf += entry
         size += entry_size
 
-    # final write
     if len(buf) > len(comp_header):
         name = f"lore_compendium_part_{part:02d}.md"
-        pathlib.Path(out_dir/name).write_text("\n".join(buf), encoding="utf-8")
+        pathlib.Path(out_dir / name).write_text("\n".join(buf), encoding="utf-8")
         files.append(name)
 
     return files
-    
+
+# ------------------------------
+# Build process
+# ------------------------------
 def build():
     pages = []
 
     # Characters DB
     for pg in query_db(DB_CHAR):
         title, content = render_page(pg)
-        pages.append({"db":"Characters","page_id":pg["id"],"title":title,"content":content})
+        pages.append({"db": "Characters", "page_id": pg["id"], "title": title, "content": content})
 
     # Session Notes DB
     for pg in query_db(DB_SESS):
         title, content = render_page(pg)
-        pages.append({"db":"Session Notes","page_id":pg["id"],"title":title,"content":content})
+        pages.append({"db": "Session Notes", "page_id": pg["id"], "title": title, "content": content})
 
     # Party Goals page
     r = S.get(f"{NOTION}/pages/{PAGE_GOALS}")
@@ -168,15 +176,24 @@ def build():
     md = [f"# {t}"]
     for blk in get_blocks(PAGE_GOALS):
         md += block_to_md(blk)
-    pages.append({"db":"Party Goals","page_id":PAGE_GOALS,"title":t,"content":"\n".join(md)})
+    pages.append({"db": "Party Goals", "page_id": PAGE_GOALS, "title": t, "content": "\n".join(md)})
 
-        # Write compendium (split into ~100 KB parts)
+    # --- Write compendium (split or single) ---
     comp_files = write_split_compendium(pages, OUT)
-    print("Wrote compendium files:", comp_files)
+    if not comp_files:
+        comp = ["# Lore Compendium (from Notion API)", ""]
+        for e in sorted(pages, key=lambda x: (x["db"], x["title"].lower())):
+            comp += ["\n---\n", f"# {e['title']}", f"_Source DB: {e['db']}_", "", e["content"]]
+        single_path = OUT / "lore_compendium.md"
+        single_path.write_text("\n".join(comp), encoding="utf-8")
+        comp_files = ["lore_compendium.md"]
+        print(f"✅ No split required; wrote single compendium ({single_path.stat().st_size // 1024} KB)")
+    else:
+        print(f"✅ Split compendium into {len(comp_files)} parts")
 
-    # Write index with aliases
+    # --- Write index with aliases ---
     idx = ["# Lore Snapshot Index", "", "List of pages and alias variants.", ""]
-    for e in sorted(pages, key=lambda x:(x["db"], x["title"].lower())):
+    for e in sorted(pages, key=lambda x: (x["db"], x["title"].lower())):
         aliases = normalize_aliases(e["title"])
         idx += [
             f"## {e['title']}",
@@ -187,7 +204,7 @@ def build():
         ]
     pathlib.Path(OUT / "lore_index.md").write_text("\n".join(idx), encoding="utf-8")
 
-    # Machine index
+    # --- Machine index ---
     pathlib.Path(OUT / "index.json").write_text(json.dumps({
         "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "databases": {
@@ -202,9 +219,21 @@ def build():
         "compendium_parts": comp_files
     }, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Zip bundle (include all parts)
+    # --- Zip bundle (include all parts) ---
     with zipfile.ZipFile(OUT / "lore_snapshot.zip", "w", zipfile.ZIP_DEFLATED) as z:
         for fn in comp_files:
             z.write(OUT / fn, fn)
         z.write(OUT / "lore_index.md", "lore_index.md")
         z.write(OUT / "index.json", "index.json")
+
+    # --- Touch timestamps (optional CI refresh) ---
+    for f in ["lore_index.md", "index.json", "lore_snapshot.zip"] + comp_files:
+        path = OUT / f
+        if path.exists():
+            path.touch()
+
+    print("✅ Snapshot build complete:", ", ".join(comp_files))
+
+if __name__ == "__main__":
+    build()
+    print("Built: build/, including compendium, index, and zip files.")
