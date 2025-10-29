@@ -3,112 +3,451 @@
 
 ---
 
-# Adelaide Dawntreader
+# Aeodira Thunderseeker
 _Source DB: Characters_
 
-# Adelaide Dawntreader
-## Summary
-Adelaide Dawntreader is a High Elf mage PC played by Julia. Her familiar Lu'va usually takes the form of a siamese cat. Her father Ma'themar Dawntreader was an ambassador to Lordaeran, with Leodis Skybearer serving as his assistant. She is not very close to her mother, Saridel Dawntreader. Adelaide relies a little heavily on alcohol to get through some parts of her past and present. Adelaide has a very stoic personality, and does not open up a lot about her feelings (although she has revealed she is open to an occasional cuddle with Isi). However, she is wise and intelligent, having been classically educated on magic and history and many other things beside. She is a Bladesinger, and is versed both in fighting magically and with use of her weapon.
-## Background
-Adelaide was born in Silvermoon to Ma'themar and Saridel Dawntreader. Adelaide's twin sister Mina (whom she had first described to the party as a childhood friend) died of an unknown illness when they both were 42. Adelaide has said she was not very close to her mother Saridel. She left Silvermoon shortly before the massacre and Sunwell destruction, and was not aware of any of the events that happened in Silvermoon after her departure, as evidenced in her conversations with Isilee. At some point after her departure it is known that she worked on a ship.
-We know that Adelaide was not good enough to be a Bladesinger/in the Bladesinger program so she stole the knowledge and did it on her own #bossbitch
-Recently, Addy got super drunk and in a blackout called Isi "Ilssa"?? We have yet to uncover who this could be, but the onion will be peeled back mark my words! Update: Ilssa was her roommate! She became a bladesinger. They had a bit of a situationship goin
-### Ratchet Arc
-Adelaide was at the Broken Keel Tavern when she was recruited by a group of Bruisers discussing a reward offered by Gazlowe for hunting down the South Sea Freebooters. At the tavern, she teams up with Ga'an and sets out to find the pirate camp. They are caught and imprisoned quickly. When they are imprisoned, they meet Isilee, a Blood Elf rogue, and Alyrin, a Forsaken Night Elf priest, who were set on a similar path, with the stipulation that they also rescue useless elf Gilthares Firebough. With the combined force of the full party, the group is able to make it out of the pirate camp, and successfully returns Gilthares to his cousin. Isilee and Alyrin had made a similar deal with Captain Brightsun that granted them passage north; Adelaide and Ga'an joined them on the trip.
-### Ragefire Arc
-The party arrives at Bladefist Bay and makes their way to Orgrimmar. Alyrin is promptly kidnapped; the party rescues her, and meets her assailant, Jes'rimon. Jes'rimon tasks the group with investigating some disappearances and some murmurs of the revival of an organization known as the Burning Blade. Adelaide and Isilee bond during this time over shared homes and traumas. The group heads to Ragefire Chasm, known to be the home base of the Burning Blade. During this time Adelaide's health appears to suffer as she brought an insufficient supply of alcohol for the numerous days spent in the cave system. Adelaide survives a surprisingly lethal rope climb down a cliff face. After the group finds Uto Broadedge, an orc to whose mate Juniper swore that she would locate him, Adelaide argues to the party that they should head back; she is convinced to push farther forward in the hopes that they will discover more about the Burning Blade for Jes'rimon. Adelaide is yeeted into the lava later in this same session, which definitely doesn't make her regret that decision. Adelaide notices that Taragamon's blade, which glows in the presence of Fel magic, glows a bit brighter when near Isilee.
-After falling into lava a couple more times, Adelaide and the party exit Ragefire Chasm. They meet with Jes'rimon to discuss their findings and are later attacked by assassins in the night. Jes'rimon also was a victim of this attack, and the party decides to confront the issue head on by interrogating Nekros. This goes badly. Next, the group decides to interrogate orc Harkzog in the Valley of the Brave. To do so, Adelaide assumes the form of a troll child that she names Ba'an in order to distract the guards from the illicit activities of Isilee, Juniper, Alyrin and Ga'an. The results of this attempted interrogation are disastrous, with the group kidnapping Harkzog and getting tracked back to Jes'rimon's hideout, exposing him. As a last resort the party goes to confront Neeru directly. During this battle Adelaide is killed, with her soul trapped in a soul gem by Neeru. She is revived through Alyrin's magic and the power of the memories that the party has of their time together.
-After the dust settles, Jes'rimon summons Adelaide on a secret mission of her own to complete separate from the party. As she later reveals to the party, this mission consisted of the investigation of several cultists, along with a troll named Kanyi, who she later re-encounters during Isilee's kidnapping by Cinder Sharpflyer.
-### First Home Arc
-Adelaide's return joyously coincides with the party's arrival in Sen'jin Village. The group meets with Ga'an's family, as well as several other village elders. One of these includes Mother Norn'sa, a soothsayer residing in the town. Norn'sa gives Ga'an guidance upon his visions and upon his quest to First Home, before giving advice to the rest of the party members as well-- to Adelaide, she says 'Mina misses you', which upsets Adelaide and causes her to leave the house. Isilee follows her out, where Adelaide confesses to her that after Mina's death, everything felt completely meaningless, and that she broke when Mina died. Isilee comforts her and they drink together. The party makes their way to Orgrimmar and then to Darkspear Isles via boat. Adelaide makes sure to communicate their activities back to Jes'rimon by Scintilla's delivery service. On board, Adelaide meets fellow Blood Elf Velarise, and is a little snobby toward her about the farming community she hails from.
-The party dives down and begins investigating the isles. Adelaide discovers a number of interesting structures, including some of clear Night Elven origin, prior to the separation of Night Elves and High Elves. The city appears to have sunken before the Sundering. After an encounter with a ghost child and a sea witch, Adelaide discovers the ruins of what appears to be some sort of academic building. Adelaide investigates, and discovers a magic box and a gem that seems to have a strange pull on her. The party make their way to First Home, where they all undergo the trials set before them. Adelaide attempts to contact Athian on the ship, but the signal is distorted; she realizes that the place that they have entered is on another plane of existence, which is interfering with the magic of the sending stones. After Ga'an and Isilee vanish during one of these trials, Adelaide, Juniper, and Alyrin decide to all sit back to back at high alert in a clearing until they return.
-As they are leaving First Home, Adelaide and Isilee have a heart to heart-- Isilee about her fear that she will betray the party after her past decisions, and Adelaide's fears about the gem she found in the Academy ruins that has a dark pull on her. She gives the gem to Isi for safekeeping. The group makes their way back to the boat. Adelaide summons a Major Image of a Kraken to distract the Mur'gul forces as the party snuck out past them. During this battle, Adelaide manages to contact the ship, letting Athena know that they were in fact alive and coming back up. As they are on the way out, Alyrin and Juniper propose a investigation of a building that looks like it is an armory; Adelaide is opposed, but is outvoted, and allows the group twenty minutes, beginning a second-by-second countdown the moment the vote ends. The group at long last arrives back at the boat. Once onboard, the gem Adelaide has a strange connection to is identified as an elemental mote of arcana.
-### Emerald Dream Arc
-After their return, Adelaide partakes in the festivities of Wintervale, picking up an elven dreidel and a Sylvanas doll as a reward for a carnival game. She competes with the Gatekeepers in the competition at the Valley of the Brave, winning a fair sum of money and some nice bragging rights. Adelaide and Isilee learn that Kael'thas is no longer the leader of Silvermoon, which is news to them. The new leader, Lor'themar, is known by Adelaide, having met him in passing at dinners with her father. Adelaide is almost killed in a rescue attempt during Isi's kidnapping before her assailant-- Kanyi, the troll working with Jes'rimon-- recognizes her and heals her immediately.
+# Aeodira Thunderseeker
 
 ---
 
-# Alyrin
+# Aila
 _Source DB: Characters_
 
-# Alyrin
-## Summary
-Alyrin is a Forsaken (formerly Night Elf) priestess of Elune played by Theo. She was born shortly before the War of the Ancients. At the Battle of Mount Hyjal at the end of the Third War, she was slain and resurrected without control of her own mind. Eventually, she was freed of that influence but was unable to remember much of anything about her past life. During a near second-death experience, a vision of Elune granted her restored memories of her past, and her druid brother who she believes to be in trouble. Alyrin is the party healer and everyone would be dead 10x over without her. She maybe likes to eat dead bodies tho nbd
-## Background
-Alyrin was born a Night Elf during the Long Vigil, a period before the War of the Ancients. This was before the Sundering, in which Azeroth's continents were split apart. While she was too young to participate in the War of the Ancients, she does have memories of it occurring during her childhood. Alyrin has two siblings, a sister which she has shared little about and a brother who is a druid and member of the Cenarian Circle.
-As an adult, Alyrin joined the priestesses of Elune and became a part of the Sentinels, a group of priestesses renowned for their abilities in combat. Alyrin fought in the War of Satyrs which occurred in the years after the Sundering. In more recent times, she fought in the Third War, where she fell at the Battle of Mount Hyjal defending Nordrassil. Following her death, she was raised by the Lich King as a Forsaken and conscripted into his army.
-Under the influence of the Lich King, Alyrin had no free will or sense of self, a true Zombie in mind and body. The influence of the Lich King was eventually broken following his defeat. Alyrin regained autonomy, but retained no memories of her past life. She joined the Forsaken under Sylvanas Windrunner in the Undercity, beneath the ruins of Lordaeron. As time passed, she began to receive flashes of her former life. Though she could not remember most of the details, she regained enough to know of her brother, and understand that her visions warned of his life in danger. Alyrin set out to regain the rest of her lost memories and come to her brother's aid.
-### Ratchet Arc
-Alyrin found her way to the Broken Keel Tavern in Ratchet where she encountered Captain Brightsun, a Blood Elf captain requesting aid in rescuing his cousin Gilthares Firebough from the South Sea Freebooters. Alyrin overheard Brightsun's conversation with another Blood Elf, Isilee, and offered her services in exchange for passage North. Isilee and Alyrin proceeded to infiltrate the pirate camp together, finding their way to where Gilthares was being held prisoner, only to find themselves surrounded and taken prisoner.
-Shortly after, Ga'an and Adelaide were taken prisoner as well and thrown into the same cell as Alyrin, Isilee, and Gilthares. The five freed themselves from their prison and fought their way out of the camp. Alyrin's memories were restored to her in a dream, of which she shared the basic details of with her new companions. In this dream, Elune spoke to her directly, guiding her on the path towards saving her brother.
-### Ragefire Arc
-While searching for evidence of Neeru Fireblade's connection to the Searing Blade, the GayteKeepërs tracked down and interrogated Nekros Clantaker of the Shadowswift Brotherhood. As part of this interregation, Alyrin severed one of Nekros' fingers, and failed to stabilize the wound after. This lead to Nekros' death while being transported to Yelmak's Alchemy in a wooden barrel. The following day, the party noticed Alyrin appeared grayer than normal and seemed to struggle with casting holy magic. Alyrin was initially confused by her faltering connection to Elune, but eventually came to realize it to be a result of her actions in the torture of Nekros. She then received a vision from Elune in which she was forced to fight the representation of her darkest parts. She succeeded in this trial and once more regained the favor of Elune.
-During the confrontation with Neeru, Adelaide was struck down and her soul trapped in a soul gem. Alyrin successfully called on the power of Elune to both break her soul out of the gem and revivify Adelaide.
-### First Home Arc
-Alyrin and Ga'an traveled to the Valley of Spirits, seeking information on the druids and what might be endangering Alyrin's brother. They were told there that Emissary Blackhoof of the Cenarian Circle can provide them more information, and that he will be along shortly. Blackhoof found the GayteKeepërs at the Broken Tusk Tavern later that day. He spoke to the party of troubling instances of night elves not awakening from the Emerald Dream. The Circle is unsure of the nature of the issue, particularly as their leader, Malfurion Stormrage, has also fallen into a slumber from which he cannot be awakened. In his absence, Fandral Staghelm has stepped up as interim leader of the Cenarian Circle. Blackhoof offered for the party to accompany him to the Circle's stronghold in Moonglade, but cautioned that Fandril does not look kindly on non-druids, particularly the undead, entering Moonglade. The party declined the offer as Ga'an's business in First Home was more pressing, but received a letter from Blackhoof which should grant them access to the glade.
+# Aila
 
 ---
 
-# Ga’an
+# Aimer
 _Source DB: Characters_
 
-# Ga’an
-## Summary
-Ga'an is a Darkspear Troll Witch Doctor PC played by Cade. His current home is Sen'jin Village, though he was born on the Darkspear Islands and has fond childhood memories of his time living on the The Echo Isles. His mother is an herbalist/alchemist who passed on the trade to him and his father was a hunter. Ga'an was mentored in the Witch Doctor arts by a Troll named Mozo're, later revealed to be the loa Gonk. Ga'an's goal is to grow more powerful so that he can defeat Zalazane, the witch doctor who seized the Echo Isles, abducted his father, and torments his village.
-## Background
-Ga'an was born on the island of Darkspear Island of Zul'dara to Molla and Cu'ul. His mother Molla was an alchemist and knowledgable in the field of herbalism, two skillsets which she passed down to Ga'an. Ga'an's father Cu'ul was a hunter, and trained Ga'an how to hunt, bestowing on a young Ga'an his first hunting knife made from the tooth of Cu'ul's first kill. Ga'an has one sibling, a younger brother named Volza.
-When Ga'an was very young, several major events occurred on the Darkspear Islands in a short time. First, a race of green, brawny humanoids calling themselves Orcs made contact with the Darkspear Trolls. The Orcs were fleeing from the Eastern Kingdoms and arrived in peace, resulting in a friendly exchange between the two races. A week after the arrival of the Orcs, a fleet of Kul'Tiran ships attacked the island. The trolls successfully fended off the human invaders, only for a Sea Witch to arrive the same day and sink the Islands underneath the waves.
-Ga'an and his family fled the sinking islands with the rest of the Darkspear Trolls, arriving on the The Echo Isles. Ga'an has fond memories of growing up on these isles, which were a tropical paradise. Ga'an would often spend time staring out at the water on "vision quests". This peaceful time was not long-lived, however, as the Trolls were once again forced out of their home, this time by one of their own. The witch doctor Zalazane seized control of the Isles, causing Ga'an's family to flee once more. They made a new home on the mainland across from the Echo Isles, founding Sen'jin Village.
-Ga'an took an interest from a young age in the study of Loa and Witch Doctors. An elderly troll witch doctor calling himself Mozo're wandered into the village one day, and became a mentor figure to Ga'an. Cu'ul was skeptical of this mysterious man, and frowned upon the closeness between the two. He expressed to his son that if he had an interest in learning more about being a witch doctor, it would be best to learn from the town witch doctor, Gadrin. At some point before the start of the campaign, Mozo're left Sen'jin Village.
-Zalazane did not leave the inhabitants of Sen'jin in peace. He orchestrated frequent raids in which many trolls were either killed or taken under the influence of his mind control. Zalazane also exhibited the power to raise the dead which he had slain. During one such raid, Molla was gravely injured, resulting in permanent loss of function in her legs. Ga'an was frozen in place from fear, while his younger brother stepped in to fend off the attacker and save the life of Ga'an and Molla. During this raid, Cu'ul was abducted and brought under the influence of Zalazane's mind control.
-While many trolls have attempted to defeat Zalazane and liberate the Echo Isles, none have come back alive from their quest. Ga'an set out from Sen'jin Village to obtain the power to defeat Zalazane, no matter the cost.
-### Ratchet Arc
-After leaving Sen'jin Village, Ga'an found his way to the town of Ratchet in the Barrens. He was almost immediately thrown out of the Broken Keel Tavern for not having any money to pay for his drink. Upon being thrown out, Ga'an overheard a conversation between a group of Bruisers and the High Elf drinking at the bar, Adelaide. They spoke of a reward offered by Gazlowe for hunting down the South Sea Freebooters. Ga'an trailed behind Adelaide as she made her way to Gazlowe's home, and entered after her, agreeing to take on the job.
-The two snuck into the South Sea Freebooters' camp alongside Retick Fiztorque, the captain of the Bruisers. The mission seemed to be going smoothly until Ga'an and Adelaide found themselves lead into a trap and surrounded. Retick revealed himself to have been working alongside Baron Longshore and the Freebooters from the start. Ga'an and Adelaide were manacled and thrown into a cell with three other prisoners. There they met Alyrin, Isilee, and the lamest jackass on Azeroth, Gilthares Firebough. The group managed to free themselves from their prison and take down Retick and Baron Longshore. Ga'an kept the baron's hat and cloak as a souvenier.
-### Ragefire Arc
-During the descent into Ragefire Chasm, Ga'an fell to his death while descending a shear cliff face. The shadows on the ground began to pour into him, reanimating his form. Ga'an awoke again with paler skin, black marks all along his body and the symbol of a skull on his chest. When questioned by the party, Ga'an denied having died at all and was evasive about his change in form. As they all continued further into Ragefire, he began dedicating his channeling to the loa of death, Bwonsamdi. Ga'an was evasive about this development as well, explaining simply that the loa of death is a good loa to worship given the death surrounding the party. Ga'an was struck down a second time in Ragefire Chasm, and once more revived by shadows. Ga'an did not open up until much later to admit that he made two deals with Bwomsamdi in order to return to living. The first deal he made was to defeat the Farraki, a group of trolls worshipping the old god of death, Ueetay no Mueh'zala. Bwomsamdi has first tasked Ga'an with journeying to First Home and undertaking the trials there that every witch doctor must do. No troll has completed this journey since the sinking of First Home alongside the rest of the Darkspear Islands nearly ten years ago. Bwomsamdi has yet to reveal to Ga'an what the second favor he requests of him will be, saying only that it will be revealed in time.
-After defeating Neeru Fireblade and the Searing Blade, the GayteKeepërs were invited by Thrall to attend a feast in their honor. Here Ga'an met Vol’jin, the current leader of the trolls. Vol'jin and his closest friend, Zalazane, were the last to undertake the trials of First Home. Vol'jin called Ga'an a fool for wanting to take on Zalazane, and insists that if Ga'an is to have any hope of succeeding, he must first take on the trials at First Home. Vol'jin advised Ga'an that his greatest resource is the people he keeps around him, reminding him that the Darkspear Trolls would not be alive today if not for their friendship with the Orcs and Tauren.
-### First Home Arc
-The Gaytekeepërs embarked on their journey to Sen'jin Village in hopes of finding navigators who could lead them to the location of First Home. The party arrived at the village to find that it had just the night before come under attack. Ga'an rushed to his family's home, learning that his younger brother Volza had been gravely wounded in the raid and had lost a limb. While Volza was healing and expected to make a full recovery and full regeneration of his limb, his healing seemed to be impeaded by some dark magic or poison on the weapon which wounded him. Ga'an's mother Molla, wheelchair bound since the raid which took Ga'an's father, was delighted to see Ga'an but distressed by his change in appearance. When told of his dealings with Bwomsamdi, she was deeply concerned and insisted he seek out the council of the town witch doctor, Gadrin, as well as the seer Mother Norn'sa.
-Gadrin cautioned Ga'an to be wary of Bwomsamdi and any deals he offeres. Mother Norn'sa provided a reading for Ga'an, fortelling of the dangers of First Home and an evil older than Azeroth itself which lies beneath the ocean. In this vision, Norn'sa projected the image of hundreds of burning orange eyes and a deep, booming voice with a simple warning: "WATCHING". Norn'sa warned that failure in Ga'an's quest would mean doom for the entire village. She cautioned that those who enter First Home leave as different trolls than they entered. Zalazane was given a choice there that set him on the path that he is on now. She warned that Ga'an will be given a similar choice.
-The party enlisted the help of several sailors from Sen'jin, notably A'thian, Sam'gha, and Mi'zae. WIth their aid, the group charted a ship in Bladefist Bay named *The Jewel of the Horde*, a galleon operated by Captain Stormfang. With the aid of the Sen'jin naviagtors, the ship sailed for the Darkspear Islands. When the ship reached the general area of where the islands had sank, they found that the area was covered in a dense fog. Eminating from Ga'an's chest was a purple light, which guided them the rest of the way. After survivng a brush with an enormous whirlpool, the party made their way underwater to find First Home. Along the way, Ga'an visited his childhood hut on the island of Zul'dara and made offerings at the Temple of the Loa and the Tomb of the Old Ones, where Ga'an received the witch doctor mask of the late priest of Samedi.
-The party managed to keep to the shadows after leaving the Tomb of the Old Ones, and finally came upon First Home, finding it to be encased in a mysterious bubble which the Naga could not enter. The Gaytekeepërs were granted passage into the bubble, and found themselves upon a sandy beach, once again breathing air instead of water. Inside First Home the group faced many trials, and Ga'an came to learn that his mentor Mozo're was in truth Gonk, the head of all the loa. Ga'an denied Dambala's offer of the power to defeat Zalazane and restore his mother's legs, asking if he took the offer, would his mother walk towards him, or run away? When the party had completed all the trials of First Home, Ga'an came once more upon his childhoot hut, as it would have been if not sunken under the tides. Inside he spoke to Bwomsamdi, learning that Gonk considered him a "chosen one", though he is neither the first nor the last. Before him the chosen ones were Vol'jin and Zalazane. Bwomsamdi cautioned Ga'an to not make the mistakes of Vol'jin, who allowed friendship to blind him to Zalazane's nature, a mistake that all Darkspear trolls must now pay the price for. Bwomsamdi also revealed that Zalazane's power comes from Ueetay no Mueh'zala, Defeating the Farraki trolls who worship him would greatly deprive Zalazane of his power.
+# Aimer
 
 ---
 
-# Isilee Shorestrider
+# A’thian
 _Source DB: Characters_
 
-# Isilee Shorestrider
-## Summary
-Isilee is a half-eleven rogue PC played by Jordyn. Born in Lordaeron to Isidori a human prostitute, and Leodis Skybearer, a High Elf ambassador (assistant) from Silvermoon. Isilee spent her early childhood in Lordaeron but moved to live with her father in Silvermoon after her mother passed of illness (likely an STD). Isilee is the party's rogue, and has a particular affinity for daggers of all shapes and sizes. She is mischievous and enjoys sowing chaos in the party's adventures; however, she also cares deeply for her party members, often trying to get them to open up about their histories and share their experiences with the group.
-## Background
-Isilee was born in Lordaeron to Leodis Skybearer and Isidori. Isilee did not get along with her father, finding him distant, especially due to his time spent away for his work. Isilee was in Silvermoon during the High Elf Massacre but managed to survive, though she is unaware of whether her father did as well. After the massacre, Isilee took a job with another survivor who was a friend of her father's. Isilee's eyes were once purple, not green, and she believes it has something to do with the destruction of the Sunwell, though she isn't sure. At one point, Isilee was engaged to a man named Pietro, but she believes he tried to have her killed. She does miss that that they used to "murder, cuddle" (though these were two separate activities, note the comma). Pietro and Isilee were both employed by the spy organization Blades of the Sun under the supervision of Cinder Sharpflyer. At some point, they engaged in business with another spy organization known as Ravenhold. Isilee ran away from Blades of the Sun after completing her business with Ravenhold. However, her absence was made known to Cinder by Pietro, who presented him with a burn notice detailing Isi's activities and alleging that she was additionally spying on the Syndicate.
-### Ratchet Arc
-Isilee is approached while in the Broken Keel Tavern by Captain Brightsun, a Blood Elf captain requesting aid in rescuing his cousin Gilthares Firebough from the South Sea Freebooters. She teams up with an eavesdropping Forsaken Night Elf named Alyrin and they set off toward the pirate camp. Upon arrival, they are quickly taken hostage and were relieved of all of their personal possessions. Quickly after, another two are thrown in the cell with them-- troll shaman Ga'an and Blood Elf mage Adelaide. Using the abilities of the full group, they are able to all escape the pirate camp and rescue Gilthares. Isilee and the rest of the group returned Gilthares to Captain Brightsun and were granted passage north on his boat.
-## Searing Blade Arc
-The group is first investigated, and then tasked by Jes'rimon to aid in the efforts of the Shattered Hand to learn about the workings of the Burning Blade. During this time, Isilee discusses her past with the group, who learn that her father was not around a lot. Adelaide recognizes her father's name when spoken, but does not elaborate on her connection to it. Isilee and Adelaide form a close bond to the point that Isilee attempts to rob a component store for Adelaide, and is thoroughly beaten up by a magical rug and some other furniture and decoration, bestowing upon her a lifelong fear of furniture. The group heads on to Ragefire Chasm, the lava-ridden base of the Burning Blade. While in Ragefire, the group fights many monsters including Taragammon the Hungerer. Upon his defeat, it is noted by Adelaide that his blade, known to glow in the presence of Fel magic, glows brighter near Isilee. The party exits Ragefire and returns to tell Jes'rimon of their findings, where they are introduced to Whuut, who everyone immediately becomes obsessed with. That night, the group is attacked by assassins at the Broken Tusk Tavern, and Isilee is slipped a note instructing her to meet with the Shattered Hand urgently. Upon meeting with Jes'rimon it is discovered that he was the victim of an attack as well. The group vows to investigate Neeru and find out who did it. Alyrin and Isi apprehend a spy working for Nekros following them and interrogate him in a totally normal way. Following this the group goes to find Nekros and interrogate him, which they are mostly unsuccessful at doing. After a similarly blunderous encounter with Harkzog in the Hall of the Brave, the group decides to confront Neeru directly. This works and Neeru is taken into custody by Thrall. The party rests, recuperates, and celebrates at a feast thrown by Thrall in their honor; Isilee takes this opportunity to regale the attendees of the many heroic acts of the Gaytekeepers, asking for donations for their heroic deeds and Alyrin's basilisk therapy.
-### First Home Arc
-The party next ventures to Sen'jin Village, Ga'an's hometown. The party meets Ga'an's family and learns about the state of the village due to the recent raids. Isilee also convinces Ga'an's mother and half the town during this time that she is married to Ga'an and that actually so are Adelaide, Juniper, and Alyrin, and that the party is comprised of sisterwives. Isilee sells the item the Orb of Time to a magic items specialist in the village, successfully deceiving him that the item contained Wild Magic. However, the only ones that ended up being deceived were the party, as we had never identified the item and it was in fact Wild Magic for real. The party formulates a plan for transport to First Home, and prepares by speaking to several members of the village before boarding the ship. They travel to the location the Darkspear Isles should be and dive in, using Necklaces of Water speaking to avoid asphyxiation. At one point, the party is ambushed after resting in a temple by some creepy fish witches. The fish witches are winning the battle initially, killing or frog polymorphing everyone except Isilee. Isilee attempts to strike a deal with the fish witches and sweet talk them into letting the party go in exchange for a favor. The fish witches accept the deal and everyone is revived and healed. Ga'an and Alyrin are not amenable to the terms of the deal and renege, causing the fight to recommence, but this time the Gaytekeepers are victorious. The group make their way to a temple of all of the Loa, and begin to offer prayers to them in order to gain their favor before the trials ahead. Isilee specifically engages in a ritual for the Loa Elortha no Shadra, the spider goddess of spies. Upon reaching the island and in the midst of the island's trials, a will-o-the-wisp reveals Isilee's true name to be Anidori. Ga'an asks why she changed her name, at which point she reveals that she essentially betrayed everyone she knew in her past, including Pietro, and had to assume a new identity in an attempt to escape from the consequences of these actions. Isilee is given an audience with the spider goddess Shadra. During this interaction she is marked by the goddess in the form of a spider brand on her neck. This brand is revealed to be known as The Blessing of the Silk Dancer, which grants Isilee +2 to poison DCs as well as knowledge of 4 new poisons. The party leave First Home and successfully return to the ship. Isilee has collected 'mementos' (blood, sand, wood chips, an eyeball, bones) and enlists the rest of the party to help make it into a (very gross) memory candle for Ga'an.
-### Emerald Dream Arc
-After returning to Orgrimmar, the party engages in fun-filled Wintervale festivities (much to the chagrin of Juniper). One of these activities includes fighting in and winning a championship at the Valley of Strength. Isilee also won two rats in a shooting game at the festival, which she names Ga'an and Athian. After this championship, the group retires to the Broken Tusk Tavern, where Isilee and Alyrin notice two orcs staring at the party. Isilee goes to investigate, and is almost spelled by one of the orcs-- she is instructed to lose the rest of the party and go to Dark Earth Tavern, a place Alyrin had gone once before for normal mushrooms and absolutely nothing else. The group formulates a plan where Isilee would go toward the tavern normally and the rest would follow her invisibly behind. Isilee enters the tavern and is immediately captured by none other than Cinder Sharpflyer and his accomplices. Cinder had been told of Isi's exploits by Pietro, and deduced that she was around after Jes'rimon dropped a few clues about her identity unintentionally, but was unable to track her location until she appeared winning the championship earlier. He interrogated her about her activities with Ravenhold and she told him the truth-- she was involved with Ravenhold and spied for them on the Syndicate, but never worked against the Blades of the Sun. The rest of the group attempted a rescue but it turned out there was never any murdery intent on Cinder's part, and then everyone just had a nice discussion under the influence of truth serum before Cinder gave up and let us go home. Isilee revealed to the party later what she had left out of the discussion with Cinder-- she had wanted to leave Blades of the Sun and potentially begin working with Ravenhold but was unable to do so.
+# A’thian
 
 ---
 
-# Juniper
+# Baron Longshore
 _Source DB: Characters_
 
-# Juniper
-## Summary
-Juniper is a Tauren hunter PC played by Jackie. Her animal companion is a pika named Stoga (short for Conastoga). Juniper is from the Stonetalon Mountains, though her clan is nomadic and didn't stay in one particular area. She left home as part of a Tauren coming-of-age custom in which she is meant to wander and see the world. She does not have a bull boyfriend (allegedly)
-## Background
-Juniper is from a nomadic clan of Tauren who reside in the Stonetalon Mountains. Her father is the chieftain of her clan, and her mother's occupation is unknown. She does not have any siblings. While most Tauren clans chose to leave behind their nomadic ways and settle in the newly established Thunder Bluff, Juniper's clan was one of the few who chose to keep the old nomadic ways. The clan still passes through the area as part of their annual migration path. Juniper's clan has a coming-of-age rite in which each Tauren is expected to leave the clan and see the world. There is no set goal or timeline on this rite, and Juniper is allowed to return home if she pleases.
-### Ragefire Arc
-Juniper traveled to Orgrimmar after leaving her clan and patronized the Broken Tusk Tavern. There she met a distressed Orc woman named Rasa who was searching for her missing mate, Uto. While comforting Rasa and trying to learn more about her mate's disappearance, Juniper was approached by the GayteKeepërs. The party took an interest in Rasa's story and joined forces with Juniper to investigate the disappearances. Juniper accompanied them into Ragefire Chasm and became an official member of the party.
-### First Home Arc
-Juniper encountered the ocean for the first time at Sen'jin Village and was amazed by its size. She also discovered that she becomes very seasick and struggled with the journey to the Darkspear Islands. Inside the Temple of the Loa, the party discovered a magical handaxe with the blessing of the loa Shirvala. Juniper took the weapon and seemed to grow stronger with it in her possession.
-Shortly after entering First Home, Juniper cast *Speak with Animals* for the first time and conversed with her pet pika, Stoga. Stoga expressed to her that he hated the water and was terrified. Juniper was very private about this interaction and did not wish to discuss the exchange with the rest of the party.
-Juniper was unintentionally injured by Isilee in one of the final trials of First Home. This caused her to become engulfed by mindless rage, attacking friend and foe alike. The party managed to subdue her, though not before she cleaved into Alyrin and Ga'an, knocking both party members unconscious. When she awoke chained and disarmed, she was still filled with fury, refusing to listen to the words of her friends and insisting on having her axe returned to her. Adelaide brought out the axe from the bag of holding, causing Juniper's gaze to immediately fixate on the weapon. Juniper continued to grow more and more agitated, forcing the party to knock her unconscious once more. Alyrin was able to call on the powers of Elune to sever the thread tying the axe to Juniper's life-force, breaking the curse. When Juniper awoke once more, she was free of the curse's influence, and apologized for the harm she had done.
+# Baron Longshore
+
+---
+
+# Bom’bay
+_Source DB: Characters_
+
+# Bom’bay
+
+---
+
+# Bwonsamdi
+_Source DB: Characters_
+
+# Bwonsamdi
+
+---
+
+# Captain Brightsun
+_Source DB: Characters_
+
+# Captain Brightsun
+
+---
+
+# Cinder
+_Source DB: Characters_
+
+# Cinder
+
+---
+
+# Cu’ul
+_Source DB: Characters_
+
+# Cu’ul
+
+---
+
+# Dambala
+_Source DB: Characters_
+
+# Dambala
+
+---
+
+# Drek
+_Source DB: Characters_
+
+# Drek
+
+---
+
+# Dura
+_Source DB: Characters_
+
+# Dura
+
+---
+
+# Elune
+_Source DB: Characters_
+
+# Elune
+
+---
+
+# Farendin Manaflame
+_Source DB: Characters_
+
+# Farendin Manaflame
+
+---
+
+# Freyis
+_Source DB: Characters_
+
+# Freyis
+
+---
+
+# Gadrin
+_Source DB: Characters_
+
+# Gadrin
+
+---
+
+# Gazlowe
+_Source DB: Characters_
+
+# Gazlowe
+
+---
+
+# Gazz’uz Voidrender
+_Source DB: Characters_
+
+# Gazz’uz Voidrender
+
+---
+
+# Gilthares Firebough
+_Source DB: Characters_
+
+# Gilthares Firebough
+
+---
+
+# Godan Runetwist
+_Source DB: Characters_
+
+# Godan Runetwist
+
+---
+
+# Harkzog
+_Source DB: Characters_
+
+# Harkzog
+
+---
+
+# Igor
+_Source DB: Characters_
+
+# Igor
+
+---
+
+# Jazzick
+_Source DB: Characters_
+
+# Jazzick
+
+---
+
+# Jes’rimon
+_Source DB: Characters_
+
+# Jes’rimon
+
+---
+
+# Jojo
+_Source DB: Characters_
+
+# Jojo
+
+---
+
+# Kanyi
+_Source DB: Characters_
+
+# Kanyi
+
+---
+
+# Kardis Dreamseeker
+_Source DB: Characters_
+
+# Kardis Dreamseeker
+
+---
+
+# Kartosh Soulflame
+_Source DB: Characters_
+
+# Kartosh Soulflame
+
+---
+
+# Keeper Ordanus
+_Source DB: Characters_
+
+# Keeper Ordanus
+
+---
+
+# Kor’ghan
+_Source DB: Characters_
+
+# Kor’ghan
+
+---
+
+# Lor’themar Theron
+_Source DB: Characters_
+
+# Lor’themar Theron
+
+---
+
+# Lukou
+_Source DB: Characters_
+
+# Lukou
+
+---
+
+# Madam Maram
+_Source DB: Characters_
+
+# Madam Maram
+
+---
+
+# Magar Irontusk
+_Source DB: Characters_
+
+# Magar Irontusk
+
+---
+
+# Marcog
+_Source DB: Characters_
+
+# Marcog
+
+---
+
+# Mi’zae
+_Source DB: Characters_
+
+# Mi’zae
+
+---
+
+# Molla
+_Source DB: Characters_
+
+# Molla
+
+---
+
+# Mother Norn’sa
+_Source DB: Characters_
+
+# Mother Norn’sa
+
+---
+
+# Mozo’re
+_Source DB: Characters_
+
+# Mozo’re
+
+---
+
+# Mueh’zala
+_Source DB: Characters_
+
+# Mueh’zala
+
+---
+
+# Neeru Fireblade
+_Source DB: Characters_
+
+# Neeru Fireblade
+
+---
+
+# Nekros Clantaker
+_Source DB: Characters_
+
+# Nekros Clantaker
+
+---
+
+# Nethraza Doomrend
+_Source DB: Characters_
+
+# Nethraza Doomrend
+
+---
+
+# Rasa
+_Source DB: Characters_
+
+# Rasa
+
+---
+
+# Retick Fiztorque
+_Source DB: Characters_
+
+# Retick Fiztorque
+
+---
+
+# Sam’gha
+_Source DB: Characters_
+
+# Sam’gha
+
+---
+
+# Satashia Manaflame
+_Source DB: Characters_
+
+# Satashia Manaflame
+
+---
+
+# Shadra
+_Source DB: Characters_
+
+# Shadra
+
+---
+
+# Shango
+_Source DB: Characters_
+
+# Shango
+
+---
+
+# Sugorim
+_Source DB: Characters_
+
+# Sugorim
+
+---
+
+# Thrall
+_Source DB: Characters_
+
+# Thrall
+
+---
+
+# Urkar
+_Source DB: Characters_
+
+# Urkar
+
+---
+
+# Uto
+_Source DB: Characters_
+
+# Uto
+
+---
+
+# Vashi
+_Source DB: Characters_
+
+# Vashi
+
+---
+
+# Vinebeard
+_Source DB: Characters_
+
+# Vinebeard
+
+---
+
+# Volza
+_Source DB: Characters_
+
+# Volza
+
+---
+
+# Vol’jin
+_Source DB: Characters_
+
+# Vol’jin
+
+---
+
+# Watcher Daru
+_Source DB: Characters_
+
+# Watcher Daru
+
+---
+
+# Watcher Voone
+_Source DB: Characters_
+
+# Watcher Voone
+
+---
+
+# Whuut
+_Source DB: Characters_
+
+# Whuut
+
+---
+
+# Wylie
+_Source DB: Characters_
+
+# Wylie
+
+---
+
+# Yelmak
+_Source DB: Characters_
+
+# Yelmak
+
+---
+
+# Zalazane
+_Source DB: Characters_
+
+# Zalazane
 
 ---
 
@@ -540,3 +879,281 @@ They then go into the feast, which is filled with breads, smoked meats, and othe
 - Sagorne is a shaman.
 - Mokvar and the troll woman seem like lightweights.
 - Gotura Fourwinds, a Tauren shaman and ambassador from the Earthen Ring, commented that "the elements are still shy".
+
+---
+
+# Session #31
+_Source DB: Session Notes_
+
+# Session #31
+# Full Notes
+- The GayteKeepërs are still at the lunch. Thrall puts down his turkey leg and says, "what will you all be doing now that we have finished your adventure?"
+- Ga'an wants to get to First Home. Another troll tells Thrall it is a sacred place for the dark spear trolls who wish to attune themselves with the loa and prove themselves. A darkspear troll can never truly connect with the loa of their own will without doing so.
+- Isilee asks for supplies or suggestions for supplies. He suggests a single potion of water breathing. He also suggests finding others who have expereicne with the isles, and skills like fishing, navigation, etc. Sen’jin Village, of which Ga’an is familiar, is a few days journey to the southern tip of Duratar. The larger group asks when we think we head out, we respond soon, likely in the next day.
+- The troll tells Ga’an that he hopes Ga’an understands the importance(?)/task(?) of Ga’an’s passage to first home. He wishes Ga’an the best and impacts some wisdom into Ga’an. The troll we speak with was one of the last trolls to go to the isles prior to the sinking by the seawitch
+- The troll asks how much we know about mitt romney. Since we know a bit of him, he explains that romney is a well known loa in the circle. He can tell Ga’an hopes to prove himself and that Ga’an has already been marked by the loa. The most important resource is going to be those that you keep around you, those that you see. The darkspear would not be alive today if we didn’t find friends in the orcs and the tauren. We come from different backgrounds and we rely on each other. Together we are stronger.
+- Zalazane was the friend of the troll that we’re talking to. It was only by going together that they got out together. Time also passed different. What was less than a day was actually more than 3 months. Know those you can trust and why. You cannot do it alone.
+- He calls Ga’an a fool for wanting to go up against Zelazane. He plays games with your minds, his power rivals or even exceeds that of this trolls father. Zelazane is a trickster. If you wish to even rival his power, Ga’an needs to go to first home and needs to converse with the loa.
+- Ga’an makes fun of Juniper for having hooves because apparently it’s hard to swim with hooves.
+- Alyrin talks to someone regarding getting to Moonglade, and that she should talk to some druids at the Grove of the Oliver Branch. Alyrin doesn’t know how to get to Moonglade and we didn’t ask the emissary from the Cenarian circle. It borders on the Fel wood, Winterspring and Dark Shore. To get that far north, you have to go pretty far North, which is very difficult, especially in Winter. Saoirse doesn’t think that going north is a good idea, and Alyrin thinks her brother is worth it.
+- Thunderbluff is calling for aid given the recent increase in Quilborn raids and the Venture Company. Thrall asks for a moment and then thanks the Gaytekeepers. We offer to help, since the Horde is spread pretty thin. North Watch and the Quilborne, and in Ashara and Ashenvale are spreading resources really thin.
+- Alyrin wanted to asks about all the banners in the throne room, with all the weird symbols.
+- Thrall responds that the banners are the banners of the orc clans that compose the horde. The banner that we’re looking at, the burning blade, was once a very noble clan within the horde and some of its people are still within the horde. However, after coming to Azeroth, they became more of a cult and branched off to become demon worshippers. Bleeding Hallow, Warsong, Blackrock, Frost wolf, etc. The shattered hand is also one.
+- Anyway, Thrall leaves, and we leave to go shopping. Isilee talks us up as we leave. Kardris Dreamseeker tells us to travel safely.
+- We end up going to the Grove of the Olive Branch. We meet two tauren there, and Alyrin says we’re going to go because it would be really cool, but we don’t actually know how to get there. The tauren says that that’s an important detail (she’s being sarcastic lmao). The druids usually wild shape to get there. The alternative is to go to Fel Wood, and there lies a very secluded secret tunnel that is often used to bring visitors in. Our best bet is to find and take the tunnel to get there. She doesn’t have a map.
+- You’re going to want to go to the very north tip of Fel wood. There’s a village of furbolg that lies to the north in the very northern reaches of Fel Wood. They were once very honorable, but the corruption that has created fel wood has changed and corrupted them, driven them to madness, but they were once protectors of this entryway. At the very northeastern edge, we’ll find the tunnel. The tunnel will lead us to Moonglade. The tunnel is small enough that we would need to walk single file. Its is under the boughs of a great tree. There’s no specific door, it hasn’t been used in a hot minute, so she doesn’t know what we need to get in.
+- Our biggest barrier will likely be anyone guarding the tunnel from Fel Wood’s side or Moonglade’s side. The tribe that we are looking for is now known as the Fel Paw. The biggest barrier will be the tribe that stakes claim to that entrance. The tree is ancient. The tree will probably stick out.
+- We went to Yelmacks and proceeded to do fast shopping.
+- We went to the tavern and purchased food, alcohol, and water. We talk about going to the map store, then we head up to the room. Ga’an meditates.
+- In the morning, Juniper purchases several maps, we all buy fanny packs, and then we bounce, with Juniper at the lead. Ga’an and Juniper both do herbalism checks and at the end of the day, everyone works on their own respective hobbies. Juniper casts goodberries in the morning, and passes them out in the evening. She also gives one to Stoga.
+- Juniper casts alarm to wake up the party if anyone, excluding Adelaide and Lu'va, cross the boundry.
+- We hear some kind of bird-like cry screech in the night, and more voices join in as a chorus. Naturally, we go towards the noise because we are brave and invincible adventurers.
+- Juniper casts pass without a trace on the group, including Ga'an's two summoned shadows, Chad and Greg. We’re sneaking off to find the source. The canyon forks in numerous directions and we end up going upper right.
+- Alyrin and Ga’an helped guide Juniper. Juniper does not want to hold the hand of Chad or Greg.
+- We hear a similar, but louder, noise as we continue on the path. There’s blood on the trail, and Alyrin can hear the sounds of tearing.
+- Juniper starts walking mindlessly towards something, down the path. She’s staring distantly, and she’s kind of in a fugue state. There’s a beautiful, melodic sound playing. The shadows can also be charmed, and both Greg and Chad begin following Juniper.
+- Ga’an dismisses both Chad and Greg.
+- Juniper is walking forward ahead of the group under some kind of spell.
+- Isilee, Ga’an, and Alyrin have to run to catch up with her. As they catch up, we see these large creature with large wings, arms, and terrifying beast things. Combat begins. Juniper really wants to be with the birds, but then she snaps out of it. Then, Juniper gets charmed again, while the rest of the party does not. Soairse, Alyrin, Isilee, and Ga’an continue to fight the harpies.
+- Juniper has not succeeded on a single saving throw against these harpies.
+- Isilee also gets caught by one of the harpies in a different turn.
+- Everyone breaks free, thanks to Ga’an, Saoirse, and Alyrin. The harpies are disposed of with some fairly excessive violence. The gang rolls some checks to find some treasures and feathers.
+
+---
+
+# Session #32
+_Source DB: Session Notes_
+
+# Session #32
+# Full Notes
+- The GayteKeepërs arrive in Sen'jin Village after dark, where they are stopped by Watcher Voone. He lets the group pass when he recognizes Ga'an, but informs them that the town is on edge after the previous night's raid. Voone alerts Ga'an that he should check on his family, whose home was hit hard in the attack
+- As the party walks to Ga'an's family's hut, Ga'an is stricken by the memory of the raid which took his father and left his mother crippled. Ga'an had hid under the table, paralyzed by fear. His younger brother saved the life of both Ga'an and his mother.
+- The orb of teleportation begins to glow as they reach Ga'an's home, and out pops Adelaide
+- Isilee gives Adelaide a hug and they quickly catch up on the last 10 days before Ga'an knocks on the door to his family's hut
+- Inside, they meet Ga'an's mother, Molla, who is now bound to a makeshift wheelchair. She is delighted to see her son, but still distressed over the condition of Ga'an's brother, Volza, who lost an arm in the attack. He is currently sleeping, but his recovery has been unnaturally slow-- there is belief in the village that the raiders may have begun coating their weapons with something that impedes healing.
+- Molla is also concerned by Ga'an's appearance. She initially laughs when he tells her of his communications with Bwonsamdi, but sobers when she realizes it isn't a joke. Molla suggests Ga'an consult with Gadrin about this, warning that Bwonsamdi "does not just give"
+- Ga'an quickly introduces the rest of the party to his mother, but quickly ushers them out and leads the group to the Loa's Shrine Inn
+- The inn is run by a Troll named Drek, from whom the party rents two rooms for the night.
+- The party attempts to get Ga'an to open up, but he is guarded and evasive.
+- In the morning, the group encounter Watcher Voone once more in the tavern, and engage him in conversation about Ga'an's quest for First Home. Voone is skeptical of how the party plans to go somewhere that is now under water, but suggests they speak to Vashi, who runs the Sen'jinn shipyard. She is one of the troll sailors who did not leave to enlist in the Horde navy, and can likely assist them in reaching Darkspear.
+- Now seeing the village in daylight, The Echo Isles are visible across the water. It is filled with lush palm trees which have begun to claim the large Mayan-esque stone structures on the shore.
+- The party return to Ga'an's home. Volza is still sleeping, but Molla is awake and happy to see Ga'an. She is interested in hearing of the party's exploits and tells Ga'an that his father Cu'ul would be proud of him.
+- Isilee snoops around the hut and accidently knocks to the floor a case containing two ceremonial necklaces, much to Molla's distress. These were the necklaces that she and Ga'an's father wore to symbolize their marriage, and Ga'an has not seen them since his father was taken.
+- Volza finally wakes up and is excited to see his brother. He is in terrible shape, depsite his natural Troll regenerative abilities. He's little more than a child, with his tusks just starting to come in, one at a crooked angle. Volza and Molla both have golden eyes, unlike Ga'an's stark blue.
+- An unfortunate comment about Volza's severed limb gets the party more or less kicked out, and Ga'an is given a list of errands to run for his mother. When Ga'an returns from these errands, Gadrin and his assistant Bom'bay are at the hut, speaking to his mother.
+- Gadrin is visibly uneasy at Ga'an's appearance, and warns him of the dangers of dealing with Bwonsamdi. Ga'an brushes him and his mother off, insisting that he knows what Bwonsamdi wants from him in return, and is not concerned about doing it.
+
+---
+
+# Session #33
+_Source DB: Session Notes_
+
+# Session #33
+# Full Notes
+- The GayteKeepërs visit Jojo's Mojo and sell the Orb of Time for 500 gold, lying about it possessing Wild Magic capabilities.
+- The party travels to the beach to await the return of the fishing ships. In the meantime, Ga'an casts Water-breathing on the group and everyone begins to experiment with swimming and fighting underwater.
+  - Wanting to test their abilities, the party swims out to investigate an old shipwreck. They find it filled with crab people (Makrura), and decide to return later when they are more prepared for a fight,
+- Swimming back to shore, the party meet the head of the shipyard, Vashi, and her husband A'thian.
+  - A'thian remembers the region where the Darkspear Islands once were. He can spare himself and two others to aid in navigating to the islands,
+  - They will charge a rate of 15 GP/day for their services, and will need the party to secure a seafaring vessel and crew in Bladefist Bay.
+- Darkspear should be roughly six days from Bladefist if the winds are good, and it will take two or three days from Sen'jin Village to reach Bladefist,
+  - A'thian agrees to depart the day after tomorrow, setting sail at 6am. He will be joined by Sam'gha and Mi'zae as navigators.
+
+---
+
+# Session #34
+_Source DB: Session Notes_
+
+# Session #34
+# Full Notes
+- The session begins with the party coming to consciousness at the inn and making plans for the day over breakfast.
+  - Ga'an, Adelaide, and Alyrin will go to JoJo's
+- At JoJo's, team GAA purchases 5 necklaces which will allow them to speak (and therefore cast spells) underwater. They also acquire a +1 bow and +1 shortsword.
+- GAA team went to Jojo’s, and bought 5 magic necklaces a bow of +1 and a short sword of +1
+- The Gaytekeepërs travel back underwater and decimate the local crab population.
+
+---
+
+# Session #35
+_Source DB: Session Notes_
+
+# Session #35
+# Full Notes
+- Upon entering the ship, the Gaytekeepërs find several decaying bodies, some of which appear to have been Forsaken.
+  - OOC, we realize these are the bodies of our one shot characters
+  - The party loots the ships remains, uncovering a lute engraved with, "*To my biggest fan, Este. Love, Saylor Twift*". They also uncover a significant amount of coin, a sealed ceramic jar, two spell scrolls, several potions, and a handful of gems.
+- Several methods were attempted to bring the Makrura to shore as they would fetch a high price, but the group is ultimately unsuccessful.
+- Arriving back on land, the party accompanies Ga'an as he seeks out Mother Norn'sa. She can be found in the back room of JoJo's. Isilee sells the cursed fel blade from Ragefire Chasm to JoJo before entering Mother Norn'sa's room.
+- Mother Norn'sa's room is cluttered and dimly lit. The room is decorated with dozens of pieces of driftwood.
+  - Norn'sa sits in the center of the room, carving the driftwood with a Troll tusk. She tells Ga'an that he's been expected, and explains that everyone in the village has a piece of driftwood, which helps her interpret the spirits. She chides Ga'an for not visiting her before setting out from Sen'jin Village the first time.
+- Norn'sa begins a reading for Ga'an, pulling out a brazier and a bag of carved bones. She holds Ga'an's driftwood over the fire and allows Ga'an to take it. He hears Bwonsamdi's voice echo in his mind as he does so.
+  - Ga'an struggles at first to clear his mind, which Mother Norn'sa notes as she mutters her incantations. Ga'a'n finally lets go of his apprehensions and feels a warmth travel through his hands into his arms, chest, and head.
+  - Light flashes from both their eyes and the room is plunged into darkness.
+  - Everyone feels weightless, and is unable to see anything. Feelings of loneliness pervade the space and no sound exists.
+- A blue green flame bursts from the brazier and shadows dance around the room. The drift wood floats on its own over the ghostly flames. Her voice now fills the room with renewed vigor.
+  - The spirits tell her all. Coldness consumes Ga'an. A cold presence takes over the room, as if the party are all caught in a blizzard.
+- Norn'sa speaks of a burning hatred for a single troll that has taken almost everything from Ga'an
+  - The burning carvings coalesce into the eerie tribal mask of Zalazane. A low maniacal laughter begins to fill the room.
+  - The party closes their eyes and reopens them to find the mask has disappeared. Now, the tent is filled with firelight and embers and smoke fill the air. There is no visible source of this, and shadows of fleeing trolls dance across the tent.
+- A single tall silhouette is behind Mother Norn'sa. A single voice calls out, "Molla, where are you?"
+  - The silhoute is attacked by a shadow, and is shot in the shoulder and tackled to the ground.
+  - Norn'sa muses that hatred drives Ga'an, and he seeks power in order to achieve his vengeance. At what cost will this come?
+- The flame begins to turn black and grey, and new carvings on the driftwood begin to glow.
+  - The sigils float into the air and float into the air toward Ga'an, but he can't move or do anything. When he looks down, he sees dark shadowy chains reaching out of the ground to hold him in place. The symbols collide with his chest and all of his tattoos begin to glow with the same color, radiating even through the armor. An agreement he doesn't know the terms to, Norn'sa sees all of this.
+- The flame shifts to a light blue color, and the sound and smell of the sea fills the air.
+  - The destination is Darkspear Isles. It lies beneath the ocean. The light filtering through the canvas begins to darken as if going deeper and deeper into the ocean. Suddenly, hundreds of burning orange eyes with slit pupils can be seen on the canvas, a deep voice reverberates, "WATCHING". There is something ancient about the voice. The minions of this ancient evil now guard the island. A whirlpool and mist on the surface, and nothing to hide you below the sees.
+  - Shadows will be the party's ally on this journey. That which they seek remains untouched, protected by the will of the Loa.
+  - The shadowy troll silhouette of Bwonsamdi appears, and with it chains that stretch from Ga'an to his hands.
+- Norn'sa warns that First Home is not a place of peace or safety. Those who travel there will be tested by the loa. The spirits hide survival or death from her visions.
+  - The journey will be treacherous, and the party will have no experience with this enemy. The spirits don't even fully understand this evil, an evil older than Azeroth itself. The minions have pledged their allegiance to this darkness. Shadows and Caution will be their friend. Don't kick the nest, use stealth.
+  - Should Ga'an fail, the village will be doomed. Should Ga'an succeed, that will not be the end of his trials. This will just be the first test.
+- The fire shifts to a golden yellow color. The ocean air fades and is replaced with an arid intense heat. The silhouette of Bwonsamdi can still be seen, along with the endless deserts of Tanaris.
+  - The Farraki trolls in the city of Zul Furak have been lead astray by an eldritch evil, Ueetay No Mueh'zala.
+  - Blood begins to trickle from Norn'sa's nose, and the earth trembles. A silhouette much larger than Bwonsamdi appears.
+  - Through the efforts of Bwonsamdi, the original keeper of souls has been almost erased.
+- Ga'an asks of Norn'sa, should hesucceed, what will Bwonsamdi ask of him next?
+  - The silhouette fades, but the eyes of Bwonsamdi remain just a second longer. A raspy menacing laugh echoes through the room, the voice of Bwonsamdi.
+- The last time multiple people went to first home together was Vol'jin and Zalazane. Those who go to first home don't return the same people they were before they left.
+  - Did the trials Zalazane underwent cause him to go mad and attack the trolls, or was it always his path?
+  - Norn'sa pulls out Zalazane's driftwood, and says the spirits don't give absolutes. Fate and destiny are often guided but they aren't set in stone. The only absolutes are a beginning and an end.
+  - Zalazane was given a choice at first home, and he chose the path that hurt many. Ga'an will have a choice at first home as well.
+  - Our enemies are those who chose to follow evil, whether at first home or at Zul Furak.
+- Norn'sa warns: "Don't be stupid Ga'an, beware the minions of the eldritch entity that lie beneath the waves. The sea witch and her ilk should not be disturbed lightly. Use caution and be wary of the mists and whirlpool that protect their kingdom."
+- Norn'sa then turns to Adelade and says, "Mina misses you".
+  - Adelaide immediately leaves the room
+- Norn'sa tells Alyrin "the Emerald Dream awaits", says that Isilee is looking for a family, and that Juniper should check in on hers.
+- With the ritual over, the party finds that Adelaide has completely left the building. They begin to search for her, and Isilee finds her at the beach, staring out at the tides.
+  - The two have a heart to heart, and Adelaide confides that she broke when Mina died, and has felt that everything else that's followed is meaningless.
+
+---
+
+# Session #36
+_Source DB: Session Notes_
+
+# Session #36
+# Full Notes
+- The party awakens before dawn, exhausted and in a rush to set out. Ga'an visits the home of his family and says his goodbyes.
+- After getting on board the ship, Ga'an is egged by Isilee
+- The Gaytekeepër discuss Mother Norn'sa's reading and Alyrin realizes that she has some knowledge of an ancient evil in the deserts of Tanaris.
+  - Alyrin states that she is a little worried about traveling out on the ocean because "there is some freaky stuff going on with the fish elves and stuff"
+- Alyrin has some amount of knowledge of the Old Gods.
+  - One is sealed in Tanaris, one is in the North, one is destroyed and one is lost and hasn’t been seen.
+- More discussion is had after we find a small cove at the beach and Ga’an shares a bit more to the party about his goals and emotional state
+
+---
+
+# Session #37
+_Source DB: Session Notes_
+
+# Session #37
+# Full Notes
+- The party wakes up in the morning and sees the troll sailors preparing to depart.
+- Juniper rolls around in the dirt. Isilee lies to Juniper that the plan was to jump overboard if we were attacked.
+- The boat pushes off and the party is off again. However, where previously the boat stayed close to shore, now the shore is no longer in sight.
+- Ga’an and Alyrin keep watch, but notice nothing throughout the day. Ga’an spends some time shaving copper dust.
+- Eventually, the ship makes camp once more north of Tygard
+- Ga’an with help from Juniper surveys the camp but finds nothing unexpected. The camp was marked with a the troll symbol for safe home.
+- Isilee starts befriending Dentula and Tynoom while Ga'an makes a potion of healing.
+- Juniper blows Alryrin up with a trap book. Oops.
+- Upon arrival in Bladefist, the party goes to meet dockmaster Trapi Keenbol to charter a ship, who recommends that the GayteKeepërs speak with Captain Stormfang on dock three.
+  - Trapi explains that charter rates are usually based on the captain. Stormfang has a crew of 12, so it could be up to 50 gold per day.
+- The party meet with Captain Stormfang and reach an agreement to charter *The Jewel of the Horde* for up to four weeks. The price is a sum of 1200 GP, half of which must be paid upfront. The ship will set out at first light.
+- The party decides to run some errands in Orgrimmar before setting out. A stop at Red Canyon Mining and Jewel Crafting proves particularly lucrative due to the use of moonlight calm on one of the two blood elf twins.
+
+---
+
+# Session #38
+_Source DB: Session Notes_
+
+# Session #38
+# Full Notes
+- More errands! Madam Marem, Rekul's Poisons, and a brothel [Adelaide will remember this.]
+- Ga’an procures a Tome of Understanding which will boost his wisdom. He will be reading it for the foreseeable future.
+- The party splits up to check out Dark Briar Lodge while Ga'an consults the Witch Doctors in the Valley of Spirits. Ga'an hears a strange laughter as he walks past the shrine of Bwomsamdi, but is pulled out of his trance by the apprentice witch doctor, Ur'kyo. He is then brought to meet the head witch doctor X'yera.
+  - X'yeara tells Ga'an that when the Isles stood, they were scattered and disparate. They only unified when first the Alliance attacked, followed by the Seawitch. Ga'an is the first mortal that the Loa have taken personal interest in since Vol'jin. He is likely to be tested by Bwonsamdi personally.
+  - The Loa are very powerful, and some are more forgiving than others. Some provide wisdom (Gonk) and how to be one with nature. Kragwa can be fickle but very loyal. Some are treacherous (Ganbala) the loa of serpents. Bwonsamdi is not as fickle as the Loa of serpents, but everything is transactional. The question must be “what will this mean for me?”
+- X'yera further explains that the Trolls were once part of an empire called the Gurabashi. The remnants of this civilization can be found in the forests of Stranglethorn. They are not very friendly. The Farraki were once part of the Gurabashi but moved on and left.
+  - The Zandalari came before the Gurabashi. They ruled all of Azeroth for a very long time before the Night Elves struck them down. During the time of this empire, there was a priest to a god of death who proved himself worthy of power and trust. The legends speak of this god of death - one who has been forgotten. One who craved endless sacrifices. This follower saw this, and after receiving his power, turned on this nameless god and seized power for himself.
+    - This forgotten god has endless hunger and unmatched cruelty. It was said that a deal was struck between him and Bwonsamdi in order to seal him away for all of time. The book is damaged, much has been removed. Ga’an is hallucinating his name onto the page of the damaged book.
+  - X'yera warns that If someone were to try to bring the old loa of death into this world, it would destroy everything.
+- The Loa live many planes. Some live in the emerald dream, some in this world and some in the plane of death (Bwonsamdi). The Loa cannot travel freely, but some radical cultists have attempted to bring the nameless god, but this would mark doomsday for all mortal races.
+- The Witch Doctors have only met one Farraki, who managed to flee before being sacrificed. Her name was Batam'si. She refused to speak to anyone about it. She stayed at the Valley of Spirits for a time, but departed years ago, heading south. She may have headed into the Barrens at some point.
+- When X’yera was young, he underwent the trial of First Home himself. Even now he is uncertain what is real and what is an illusion. Reality is different there, a protected site where the Loa can almost freely move between. The whole party will be tested and potentially separated. They will never know if what they see is true, or a test. Not all are fit for First Home. Many are never ready and die in the trial, or stagnate and fail to push forward.
+- Further information about the Loa:
+  - Hireek the loa of the midnight sky or the loa of treachery can provide stealth and silence
+  - Kragwa can provide strength
+  - The loa golden eagle can provide health
+  - Shengo can provide us with safe travels and clear skies
+  - Shirvala can provide strength and protection in battle
+  - Gonk can provide intelligence and the hunt.
+- Back at the tavern, the party learns to play the card game "Call of the Banshee". Garuk, a young orc down on his luck, finally won and we were all happy for him.
+- Adelaide sneaks out at night to acquire some "company". She is not as sneaky as she would like and the party notices her disappearance and flips their shit. There is a confrontation about it in the morning and a fair amount of tension in the party.
+
+---
+
+# Session #39
+_Source DB: Session Notes_
+
+# Session #39
+# Full Notes
+- In the morning, the party meet the first mate of the *Jewel,* a Tauren named Izha Strongwind. They pay the first half of the fee and the ship begins to set sail. Juniper has some awkward Tauren bonding but manages not to faint.
+  - Izha tells everyone of the recent quillboar attacks in Mulgore, alongside the drought in the Barrens and Stone Talon. In addition, the Venture Company have been invading the area and set up a processing plant at Windshear Crag.
+- Alyrin summons a frog using her hat. Ga’an tries to eat the frog, but it turns to dust.
+- North Watch ships attack the *Jewel*, but fuck around and find out.
+- Ga’an casts scorcher during the fight, and accidently ignites the ships gunpowder stores. This was not what he expected to happen.
+- Alyrin is knocked unconscious, and then “healed” by the blood elf bard, Velarise. Luckily, she is stabilized by her necklace.
+- The party investigates the scorched remnants of the North Watch ship, uncovering the following:
+  - A wooden lock box lined with lead. Inside is a broken holy symbol, as well as a badly worn libram to the light, with pages ripped out and "lies" scratched over the text, as well as the phrase "the hour of twilight is at hand" and "In darkness, there are infinite paths"
+  - A missive written to Lady Admiral Proudmoore referencing her "late husband" and "the traitorous Lady Jaina Proudmoore"
+  - A small necklace with a gold pendant in the shape of an eye with a slit-pupil. The necklace itself does not possess any magical properties, but the person in possession of it hears a deep voice like in Mother Norn'sa's hut which warns, "WATCHING"
+  - A diary of a Kul Tiran sailor chronicling his descent into madness over the course of his voyage. The diary notes that the crew was denied entry first into Silvermoon due to the Blood Elves joining the Horde, then into Gilneas. They were able to trade some goods at the dock but denied the ability to restock food or enter the city due to food shortages and fear of another outbreak of the undead plague. The city also is rumored to be swept up in a civil war and dealing with a dark curse in the countryside that twists people into "savage wolf men". They also learned in Stormwind that the country is wracked by civil war with the Defias Brotherhood. In addition, King Varian went missing en route on a diplomatic mission to Theramore, leaving the ten year old Anduin as King and Bolvar Fordragon as his Regent Lord. The diary begins to contains phrases such as "the hour of twilight", "infinite possibilities", "the Black Empire", and "may the shadow of C'thun guide me". The pages also contain an illustration of
+    - An octopus-shaped silhouette with a variety of sharp spines covering its immense body and tentacles.
+    - An immense Ziggurat and hellish landscape dotted with obelisks and structures overlooked by a giant octopus-like creature with a giant eye above its head.
+    - An immense ancient city with a sealed gate.
+  - The sailor's diary describes being plagued by whispers of "watching" and "infinite possibilites". A visit to the Night Elven tree of Teldrassil yielded a nightmare in which the tree's reflection in the still water grew unnatural spike-like growths on the trunk that glowed a crimson red. Dark energy poured out from its branches and gave the tree an ominous aura. Monsters and abominations of flesh, tentacles, eyes, and teeth crawled from the holes and crevices littering its surface. A familiar voice rang out: "New Beginning". The sailor soon begins to talk of the need to go to the desert to "break him out" from "behind that accursed wall". He prays "may the shadow of C'thun guide me" and writes "C'thun how I long witness your awesome might".
+- Back on the *Jewel*, Captain Stormfang is understandably PO'd about the damage to his ship but the party compensates him well for the damages to smooth things over.
+- Adelaide writes a missive to Jes'rimmon detailing the findings and Alyrin sends Scintilla to deliver the message.
+
+---
+
+# Session #4
+_Source DB: Session Notes_
+
+# Session #4
+# Full Notes
+- The group searched Baron Longshore's tent and found a map of the Barrens, a manifest of future shipments "signed" by Gazlowe, and communications referring to the pirates "contact" (Retick Fiztorque) giving them information on an upcoming shipment.
+- The group make it out of the pirate camp and set off to reunite Gilthares Firebough with his cousin, Captain Brightsun, who had previously hired Isilee and Alyrin to retrieve Gilthares.
+- The group discovers that Retick has been working for Longshore for several years
+
+---
+
+# Session #40
+_Source DB: Session Notes_
+
+# Session #40
+# Full Notes
+- The party unpacks the revelations of the last session further. Alyrin/Adelaide recall that the "Hour of Twilight" refers to an armageddon whereby all life is snuffed out in the entire great beyond in an instant.
+- Velarise comes to apologize to Alyrin for almost killing her. The Gatekeepërs learn that she is 85 years old (relatively young for a Blood/High Elf, but older than Adelaide). She comes from Fairbreeze, a farming community in Western Quel'thalas. Adelaide is very snobby about this and Velarise leaves, dejected.
+- Isilee opens up a bit more about her own life story. She knew Pietro as a child in Lordaeron and was partners-in-petty-crime with him. When her mother grew ill, her father took her to Silvermoon, "the only good thing he ever did" for her.
+  - She is cagey in her answer about how she met Pietro again as an adult and where she was after being in Silvermoon.
+- A'thian shows the party a map of Darkspear, identifying First Home for the group. The party decides to stop at the Temple of the Loa and Dazduga Shrine to make the proper tribute to the Loa before entering first home.
+- As the ship sails nearer to the isles, Ga’an is kept awake that night with apprehension. What will Darkspear look like? What will have changed? Ga’an remembers hunts and adventures around the island, rituals celebrating Gonk and other Loa.
+- The entire ship is awakened in the night by an attack of Naga. One of the crew dies in the attack, and Stormfang grows furious when he overhears talk of occult symbols brought on board by the team. Alyrin's Moonlight Calm saves the day for the party to not be thrown overboard.
+- The party debate tossing the lead-lined box overboard but decide against it.
+- In the morning, the ship sails into a heavy mist that is magical and unable to be dispelled by Adelaide.
+- Ga'an's tattoos glow purple, a beacon pointing in the direction of First Home.
+- The Gaytekeepërs have a Tusk Love book club/cuddle puddle to pass the time.
+- Fish attack!
+
+---
+
+# Session #41
+_Source DB: Session Notes_
+
+# Session #41
+# Full Notes
+- Cade and I both have shit notes for this oops
+- More naga attack! The party defeats them but!
+- Whirlpool!
+- Izha and Stormfang manage to successfully maneuver the ship onto a rock to stop the descent into the whirlpool.
+- Ga'an's tattoos seem to point directly to the center of the whirlpool

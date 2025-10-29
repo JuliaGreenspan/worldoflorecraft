@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T16:21:11Z",
+  "generated_at": "2025-10-29T05:23:13Z",
   "databases": {
     "characters": "2992fb8c325a8026a3b5cbd96f332c17",
     "sessions": "2992fb8c325a80d9aed0d0320813a063"
@@ -7,29 +7,324 @@
   "party_goals_page": "2992fb8c325a80efbb32edb10a21c3ba",
   "pages": [
     {
-      "title": "Alyrin",
+      "title": "Watcher Voone",
       "db": "Characters",
-      "page_id": "2992fb8c-325a-8032-8a5b-c5195eeefa62"
+      "page_id": "29a2fb8c-325a-8102-927b-ea233328d337"
     },
     {
-      "title": "Adelaide Dawntreader",
+      "title": "Sugorim",
       "db": "Characters",
-      "page_id": "2992fb8c-325a-808b-af6f-c6de5be63b99"
+      "page_id": "29a2fb8c-325a-810b-8ea3-dac209bc6779"
     },
     {
-      "title": "Juniper",
+      "title": "Kor’ghan",
       "db": "Characters",
-      "page_id": "2992fb8c-325a-80d1-bf5b-eff54b35c954"
+      "page_id": "29a2fb8c-325a-8118-8d6d-f6064346c592"
     },
     {
-      "title": "Isilee Shorestrider",
+      "title": "Captain Brightsun",
       "db": "Characters",
-      "page_id": "2992fb8c-325a-80d3-820a-c9c1a7a391e1"
+      "page_id": "29a2fb8c-325a-811a-88e5-de3438f74ea6"
     },
     {
-      "title": "Ga’an",
+      "title": "Nethraza Doomrend",
       "db": "Characters",
-      "page_id": "2992fb8c-325a-80d8-8b35-d79caa92f127"
+      "page_id": "29a2fb8c-325a-811d-b181-f281980f714d"
+    },
+    {
+      "title": "Bwonsamdi",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-811d-b22b-c34b162ac44b"
+    },
+    {
+      "title": "Retick Fiztorque",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8122-a6b3-eeabd2d47da4"
+    },
+    {
+      "title": "Aimer",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8124-bc1e-f22824e7a90d"
+    },
+    {
+      "title": "Drek",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8125-af53-e7d006c78225"
+    },
+    {
+      "title": "Vinebeard",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8126-b4db-c2ab79d7f875"
+    },
+    {
+      "title": "Aeodira Thunderseeker",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8127-a4f1-e9d4c56251e0"
+    },
+    {
+      "title": "Vashi",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-812b-8b93-dff9893327a9"
+    },
+    {
+      "title": "Keeper Ordanus",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8130-b53b-c248fd544a07"
+    },
+    {
+      "title": "Kardis Dreamseeker",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8130-bce3-f011656a21e5"
+    },
+    {
+      "title": "Marcog",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8133-ada4-fb446214cbd2"
+    },
+    {
+      "title": "Kartosh Soulflame",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8133-b743-ccdf4161cca9"
+    },
+    {
+      "title": "Mozo’re",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8135-be06-d9c50664bac7"
+    },
+    {
+      "title": "Igor",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8140-8ef6-ea9af588e88d"
+    },
+    {
+      "title": "Elune",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8143-b248-d720192bf682"
+    },
+    {
+      "title": "Lor’themar Theron",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8145-828b-e9a1c74901ea"
+    },
+    {
+      "title": "Jazzick",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8146-8c93-f60dad2ed61e"
+    },
+    {
+      "title": "Uto",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-814b-b429-dd3c961a2416"
+    },
+    {
+      "title": "Kanyi",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-814f-8fd0-c281789fc6c8"
+    },
+    {
+      "title": "Lukou",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8157-8e4f-ecdb8cbc8985"
+    },
+    {
+      "title": "Bom’bay",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8157-9ee8-ef30b1156036"
+    },
+    {
+      "title": "Whuut",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-815b-bd7b-cd271448dac6"
+    },
+    {
+      "title": "Nekros Clantaker",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-815c-90b8-c8d50137bb95"
+    },
+    {
+      "title": "Harkzog",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-815c-9c93-e7eda966a581"
+    },
+    {
+      "title": "Madam Maram",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8165-86e9-ed0714c15510"
+    },
+    {
+      "title": "Dambala",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-816c-98c7-ef4dae6b1abb"
+    },
+    {
+      "title": "Cinder",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8170-a007-e5abe5cec30b"
+    },
+    {
+      "title": "Urkar",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-817d-bb81-f8ab2c10dc83"
+    },
+    {
+      "title": "Sam’gha",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8180-876d-cd63bbf42f82"
+    },
+    {
+      "title": "Farendin Manaflame",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-818b-a547-e2794d97d4a4"
+    },
+    {
+      "title": "Aila",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-818e-9f48-ff5249185c0f"
+    },
+    {
+      "title": "Gazz’uz Voidrender",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8190-a658-d5189e395138"
+    },
+    {
+      "title": "Cu’ul",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-8197-aefc-c0f77cd91bfd"
+    },
+    {
+      "title": "Volza",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81a1-b661-f12a5f5ef790"
+    },
+    {
+      "title": "Jes’rimon",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81a3-a0e3-dc0ad85637f6"
+    },
+    {
+      "title": "Thrall",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81a8-8014-ca384e362241"
+    },
+    {
+      "title": "Gazlowe",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81a9-a131-d10126e37f9f"
+    },
+    {
+      "title": "Godan Runetwist",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81aa-92d4-ee08e293288f"
+    },
+    {
+      "title": "Watcher Daru",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81ad-b215-e882568098cc"
+    },
+    {
+      "title": "Dura",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81ad-b486-f22371c974e4"
+    },
+    {
+      "title": "Magar Irontusk",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81b3-adb0-f45deba62ced"
+    },
+    {
+      "title": "Molla",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81b4-a5ba-e8339fc4e1e6"
+    },
+    {
+      "title": "Satashia Manaflame",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81b5-8bf8-e22ccc01c06f"
+    },
+    {
+      "title": "A’thian",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81b7-86da-edf91d138458"
+    },
+    {
+      "title": "Shadra",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81bc-b418-c3bddbc620f8"
+    },
+    {
+      "title": "Shango",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81c1-a19c-c8359d710942"
+    },
+    {
+      "title": "Rasa",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81c8-9ead-c71e8b4d7b9b"
+    },
+    {
+      "title": "Mi’zae",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81cc-a783-e0443f186a8b"
+    },
+    {
+      "title": "Vol’jin",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81cf-98de-cc342ed1d98a"
+    },
+    {
+      "title": "Mueh’zala",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81d2-a857-df369df0bc9c"
+    },
+    {
+      "title": "Neeru Fireblade",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81d4-b85c-ebd9ee274a5e"
+    },
+    {
+      "title": "Freyis",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81d5-9ddd-f587e30da5b5"
+    },
+    {
+      "title": "Yelmak",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81dc-95d9-c52c635b9e68"
+    },
+    {
+      "title": "Gilthares Firebough",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81dd-91dd-c62e04b51793"
+    },
+    {
+      "title": "Zalazane",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81de-8f25-c003747e62a6"
+    },
+    {
+      "title": "Gadrin",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81e9-acb2-eda3354ac704"
+    },
+    {
+      "title": "Wylie",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81ed-86cb-d4744ca92338"
+    },
+    {
+      "title": "Baron Longshore",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81f2-82cf-daa9c6921e22"
+    },
+    {
+      "title": "Jojo",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81f2-b5e2-c755accd895a"
+    },
+    {
+      "title": "Mother Norn’sa",
+      "db": "Characters",
+      "page_id": "29a2fb8c-325a-81f7-9c24-c4d2abce9587"
     },
     {
       "title": "Session #28",
