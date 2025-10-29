@@ -2,30 +2,325 @@
 
 List of pages and alias variants.
 
-## Adelaide Dawntreader
+## Aeodira Thunderseeker
 - Database: **Characters**
-- Page ID: `2992fb8c-325a-808b-af6f-c6de5be63b99`
-- Aliases: Adelaide Dawntreader, adelaide dawntreader
+- Page ID: `29a2fb8c-325a-8127-a4f1-e9d4c56251e0`
+- Aliases: Aeodira Thunderseeker, aeodira thunderseeker
 
-## Alyrin
+## Aila
 - Database: **Characters**
-- Page ID: `2992fb8c-325a-8032-8a5b-c5195eeefa62`
-- Aliases: Alyrin, alyrin
+- Page ID: `29a2fb8c-325a-818e-9f48-ff5249185c0f`
+- Aliases: Aila, aila
 
-## Ga’an
+## Aimer
 - Database: **Characters**
-- Page ID: `2992fb8c-325a-80d8-8b35-d79caa92f127`
-- Aliases: Ga'an, Gaan, Ga’an, ga'an, gaan, ga’an
+- Page ID: `29a2fb8c-325a-8124-bc1e-f22824e7a90d`
+- Aliases: Aimer, aimer
 
-## Isilee Shorestrider
+## A’thian
 - Database: **Characters**
-- Page ID: `2992fb8c-325a-80d3-820a-c9c1a7a391e1`
-- Aliases: Isilee Shorestrider, isilee shorestrider
+- Page ID: `29a2fb8c-325a-81b7-86da-edf91d138458`
+- Aliases: A'thian, Athian, A’thian, a'thian, athian, a’thian
 
-## Juniper
+## Baron Longshore
 - Database: **Characters**
-- Page ID: `2992fb8c-325a-80d1-bf5b-eff54b35c954`
-- Aliases: Juniper, juniper
+- Page ID: `29a2fb8c-325a-81f2-82cf-daa9c6921e22`
+- Aliases: Baron Longshore, baron longshore
+
+## Bom’bay
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8157-9ee8-ef30b1156036`
+- Aliases: Bom'bay, Bombay, Bom’bay, bom'bay, bombay, bom’bay
+
+## Bwonsamdi
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-811d-b22b-c34b162ac44b`
+- Aliases: Bwonsamdi, bwonsamdi
+
+## Captain Brightsun
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-811a-88e5-de3438f74ea6`
+- Aliases: Captain Brightsun, captain brightsun
+
+## Cinder
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8170-a007-e5abe5cec30b`
+- Aliases: Cinder, cinder
+
+## Cu’ul
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8197-aefc-c0f77cd91bfd`
+- Aliases: Cu'ul, Cuul, Cu’ul, cu'ul, cuul, cu’ul
+
+## Dambala
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-816c-98c7-ef4dae6b1abb`
+- Aliases: Dambala, dambala
+
+## Drek
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8125-af53-e7d006c78225`
+- Aliases: Drek, drek
+
+## Dura
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81ad-b486-f22371c974e4`
+- Aliases: Dura, dura
+
+## Elune
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8143-b248-d720192bf682`
+- Aliases: Elune, elune
+
+## Farendin Manaflame
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-818b-a547-e2794d97d4a4`
+- Aliases: Farendin Manaflame, farendin manaflame
+
+## Freyis
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81d5-9ddd-f587e30da5b5`
+- Aliases: Freyis, freyis
+
+## Gadrin
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81e9-acb2-eda3354ac704`
+- Aliases: Gadrin, gadrin
+
+## Gazlowe
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81a9-a131-d10126e37f9f`
+- Aliases: Gazlowe, gazlowe
+
+## Gazz’uz Voidrender
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8190-a658-d5189e395138`
+- Aliases: Gazz'uz Voidrender, Gazzuz Voidrender, Gazz’uz Voidrender, gazz'uz voidrender, gazzuz voidrender, gazz’uz voidrender
+
+## Gilthares Firebough
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81dd-91dd-c62e04b51793`
+- Aliases: Gilthares Firebough, gilthares firebough
+
+## Godan Runetwist
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81aa-92d4-ee08e293288f`
+- Aliases: Godan Runetwist, godan runetwist
+
+## Harkzog
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-815c-9c93-e7eda966a581`
+- Aliases: Harkzog, harkzog
+
+## Igor
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8140-8ef6-ea9af588e88d`
+- Aliases: Igor, igor
+
+## Jazzick
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8146-8c93-f60dad2ed61e`
+- Aliases: Jazzick, jazzick
+
+## Jes’rimon
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81a3-a0e3-dc0ad85637f6`
+- Aliases: Jes'rimon, Jesrimon, Jes’rimon, jes'rimon, jesrimon, jes’rimon
+
+## Jojo
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81f2-b5e2-c755accd895a`
+- Aliases: Jojo, jojo
+
+## Kanyi
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-814f-8fd0-c281789fc6c8`
+- Aliases: Kanyi, kanyi
+
+## Kardis Dreamseeker
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8130-bce3-f011656a21e5`
+- Aliases: Kardis Dreamseeker, kardis dreamseeker
+
+## Kartosh Soulflame
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8133-b743-ccdf4161cca9`
+- Aliases: Kartosh Soulflame, kartosh soulflame
+
+## Keeper Ordanus
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8130-b53b-c248fd544a07`
+- Aliases: Keeper Ordanus, keeper ordanus
+
+## Kor’ghan
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8118-8d6d-f6064346c592`
+- Aliases: Kor'ghan, Korghan, Kor’ghan, kor'ghan, korghan, kor’ghan
+
+## Lor’themar Theron
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8145-828b-e9a1c74901ea`
+- Aliases: Lor'themar Theron, Lorthemar Theron, Lor’themar Theron, lor'themar theron, lorthemar theron, lor’themar theron
+
+## Lukou
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8157-8e4f-ecdb8cbc8985`
+- Aliases: Lukou, lukou
+
+## Madam Maram
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8165-86e9-ed0714c15510`
+- Aliases: Madam Maram, madam maram
+
+## Magar Irontusk
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81b3-adb0-f45deba62ced`
+- Aliases: Magar Irontusk, magar irontusk
+
+## Marcog
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8133-ada4-fb446214cbd2`
+- Aliases: Marcog, marcog
+
+## Mi’zae
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81cc-a783-e0443f186a8b`
+- Aliases: Mi'zae, Mizae, Mi’zae, mi'zae, mizae, mi’zae
+
+## Molla
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81b4-a5ba-e8339fc4e1e6`
+- Aliases: Molla, molla
+
+## Mother Norn’sa
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81f7-9c24-c4d2abce9587`
+- Aliases: Mother Norn'sa, Mother Nornsa, Mother Norn’sa, mother norn'sa, mother nornsa, mother norn’sa
+
+## Mozo’re
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8135-be06-d9c50664bac7`
+- Aliases: Mozo're, Mozore, Mozo’re, mozo're, mozore, mozo’re
+
+## Mueh’zala
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81d2-a857-df369df0bc9c`
+- Aliases: Mueh'zala, Muehzala, Mueh’zala, mueh'zala, muehzala, mueh’zala
+
+## Neeru Fireblade
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81d4-b85c-ebd9ee274a5e`
+- Aliases: Neeru Fireblade, neeru fireblade
+
+## Nekros Clantaker
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-815c-90b8-c8d50137bb95`
+- Aliases: Nekros Clantaker, nekros clantaker
+
+## Nethraza Doomrend
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-811d-b181-f281980f714d`
+- Aliases: Nethraza Doomrend, nethraza doomrend
+
+## Rasa
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81c8-9ead-c71e8b4d7b9b`
+- Aliases: Rasa, rasa
+
+## Retick Fiztorque
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8122-a6b3-eeabd2d47da4`
+- Aliases: Retick Fiztorque, retick fiztorque
+
+## Sam’gha
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8180-876d-cd63bbf42f82`
+- Aliases: Sam'gha, Samgha, Sam’gha, sam'gha, samgha, sam’gha
+
+## Satashia Manaflame
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81b5-8bf8-e22ccc01c06f`
+- Aliases: Satashia Manaflame, satashia manaflame
+
+## Shadra
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81bc-b418-c3bddbc620f8`
+- Aliases: Shadra, shadra
+
+## Shango
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81c1-a19c-c8359d710942`
+- Aliases: Shango, shango
+
+## Sugorim
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-810b-8ea3-dac209bc6779`
+- Aliases: Sugorim, sugorim
+
+## Thrall
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81a8-8014-ca384e362241`
+- Aliases: Thrall, thrall
+
+## Urkar
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-817d-bb81-f8ab2c10dc83`
+- Aliases: Urkar, urkar
+
+## Uto
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-814b-b429-dd3c961a2416`
+- Aliases: Uto, uto
+
+## Vashi
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-812b-8b93-dff9893327a9`
+- Aliases: Vashi, vashi
+
+## Vinebeard
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8126-b4db-c2ab79d7f875`
+- Aliases: Vinebeard, vinebeard
+
+## Volza
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81a1-b661-f12a5f5ef790`
+- Aliases: Volza, volza
+
+## Vol’jin
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81cf-98de-cc342ed1d98a`
+- Aliases: Vol'jin, Voljin, Vol’jin, vol'jin, voljin, vol’jin
+
+## Watcher Daru
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81ad-b215-e882568098cc`
+- Aliases: Watcher Daru, watcher daru
+
+## Watcher Voone
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-8102-927b-ea233328d337`
+- Aliases: Watcher Voone, watcher voone
+
+## Whuut
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-815b-bd7b-cd271448dac6`
+- Aliases: Whuut, whuut
+
+## Wylie
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81ed-86cb-d4744ca92338`
+- Aliases: Wylie, wylie
+
+## Yelmak
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81dc-95d9-c52c635b9e68`
+- Aliases: Yelmak, yelmak
+
+## Zalazane
+- Database: **Characters**
+- Page ID: `29a2fb8c-325a-81de-8f25-c003747e62a6`
+- Aliases: Zalazane, zalazane
 
 ## Party Goals Tracker
 - Database: **Party Goals**
